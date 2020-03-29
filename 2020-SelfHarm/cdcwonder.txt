@@ -1,0 +1,1178 @@
+"Notes"	"Gender"	"Gender Code"	"Ten-Year Age Groups"	"Ten-Year Age Groups Code"	"Cause of death"	"Cause of death Code"	"Year"	"Year Code"	Deaths	Population	Crude Rate
+	"Female"	"F"	"5-14 years"	"5-14"	"Intentional self-poisoning by and exposure to nonopioid analgesics, antipyretics and antirheumatics"	"X60"	"2017"	"2017"	2	20109479	Unreliable
+	"Female"	"F"	"5-14 years"	"5-14"	"Intentional self-poisoning by and exposure to nonopioid analgesics, antipyretics and antirheumatics"	"X60"	"2018"	"2018"	1	20100339	Unreliable
+"Total"	"Female"	"F"	"5-14 years"	"5-14"	"Intentional self-poisoning by and exposure to nonopioid analgesics, antipyretics and antirheumatics"	"X60"			3	40209818	Unreliable
+	"Female"	"F"	"5-14 years"	"5-14"	"Intentional self-poisoning by and exposure to antiepileptic, sedative-hypnotic, antiparkinsonism and psychotropic drugs, not elsewhere classified"	"X61"	"2017"	"2017"	7	20109479	Unreliable
+	"Female"	"F"	"5-14 years"	"5-14"	"Intentional self-poisoning by and exposure to antiepileptic, sedative-hypnotic, antiparkinsonism and psychotropic drugs, not elsewhere classified"	"X61"	"2018"	"2018"	2	20100339	Unreliable
+"Total"	"Female"	"F"	"5-14 years"	"5-14"	"Intentional self-poisoning by and exposure to antiepileptic, sedative-hypnotic, antiparkinsonism and psychotropic drugs, not elsewhere classified"	"X61"			9	40209818	Unreliable
+	"Female"	"F"	"5-14 years"	"5-14"	"Intentional self-poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified"	"X62"	"2017"	"2017"	7	20109479	Unreliable
+	"Female"	"F"	"5-14 years"	"5-14"	"Intentional self-poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified"	"X62"	"2018"	"2018"	2	20100339	Unreliable
+"Total"	"Female"	"F"	"5-14 years"	"5-14"	"Intentional self-poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified"	"X62"			9	40209818	Unreliable
+	"Female"	"F"	"5-14 years"	"5-14"	"Intentional self-poisoning by and exposure to other and unspecified drugs, medicaments and biological substances"	"X64"	"2017"	"2017"	16	20109479	Unreliable
+	"Female"	"F"	"5-14 years"	"5-14"	"Intentional self-poisoning by and exposure to other and unspecified drugs, medicaments and biological substances"	"X64"	"2018"	"2018"	11	20100339	Unreliable
+"Total"	"Female"	"F"	"5-14 years"	"5-14"	"Intentional self-poisoning by and exposure to other and unspecified drugs, medicaments and biological substances"	"X64"			27	40209818	0.1
+	"Female"	"F"	"5-14 years"	"5-14"	"Intentional self-harm by hanging, strangulation and suffocation"	"X70"	"2017"	"2017"	101	20109479	0.5
+	"Female"	"F"	"5-14 years"	"5-14"	"Intentional self-harm by hanging, strangulation and suffocation"	"X70"	"2018"	"2018"	146	20100339	0.7
+"Total"	"Female"	"F"	"5-14 years"	"5-14"	"Intentional self-harm by hanging, strangulation and suffocation"	"X70"			247	40209818	0.6
+	"Female"	"F"	"5-14 years"	"5-14"	"Intentional self-harm by handgun discharge"	"X72"	"2017"	"2017"	6	20109479	Unreliable
+	"Female"	"F"	"5-14 years"	"5-14"	"Intentional self-harm by handgun discharge"	"X72"	"2018"	"2018"	11	20100339	Unreliable
+"Total"	"Female"	"F"	"5-14 years"	"5-14"	"Intentional self-harm by handgun discharge"	"X72"			17	40209818	Unreliable
+	"Female"	"F"	"5-14 years"	"5-14"	"Intentional self-harm by rifle, shotgun and larger firearm discharge"	"X73"	"2017"	"2017"	1	20109479	Unreliable
+	"Female"	"F"	"5-14 years"	"5-14"	"Intentional self-harm by rifle, shotgun and larger firearm discharge"	"X73"	"2018"	"2018"	3	20100339	Unreliable
+"Total"	"Female"	"F"	"5-14 years"	"5-14"	"Intentional self-harm by rifle, shotgun and larger firearm discharge"	"X73"			4	40209818	Unreliable
+	"Female"	"F"	"5-14 years"	"5-14"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"	"2017"	"2017"	23	20109479	0.1
+	"Female"	"F"	"5-14 years"	"5-14"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"	"2018"	"2018"	30	20100339	0.1
+"Total"	"Female"	"F"	"5-14 years"	"5-14"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"			53	40209818	0.1
+	"Female"	"F"	"5-14 years"	"5-14"	"Intentional self-harm by jumping from a high place"	"X80"	"2017"	"2017"	2	20109479	Unreliable
+	"Female"	"F"	"5-14 years"	"5-14"	"Intentional self-harm by jumping from a high place"	"X80"	"2018"	"2018"	3	20100339	Unreliable
+"Total"	"Female"	"F"	"5-14 years"	"5-14"	"Intentional self-harm by jumping from a high place"	"X80"			5	40209818	Unreliable
+	"Female"	"F"	"5-14 years"	"5-14"	"Intentional self-harm by jumping or lying before moving object"	"X81"	"2017"	"2017"	4	20109479	Unreliable
+	"Female"	"F"	"5-14 years"	"5-14"	"Intentional self-harm by jumping or lying before moving object"	"X81"	"2018"	"2018"	1	20100339	Unreliable
+"Total"	"Female"	"F"	"5-14 years"	"5-14"	"Intentional self-harm by jumping or lying before moving object"	"X81"			5	40209818	Unreliable
+	"Female"	"F"	"5-14 years"	"5-14"	"Intentional self-harm by crashing of motor vehicle"	"X82"	"2018"	"2018"	1	20100339	Unreliable
+"Total"	"Female"	"F"	"5-14 years"	"5-14"	"Intentional self-harm by crashing of motor vehicle"	"X82"			1	40209818	Unreliable
+	"Female"	"F"	"5-14 years"	"5-14"	"Intentional self-harm by unspecified means"	"X84"	"2017"	"2017"	1	20109479	Unreliable
+"Total"	"Female"	"F"	"5-14 years"	"5-14"	"Intentional self-harm by unspecified means"	"X84"			1	40209818	Unreliable
+"Total"	"Female"	"F"	"5-14 years"	"5-14"					381	40209818	0.9
+	"Female"	"F"	"15-24 years"	"15-24"	"Intentional self-poisoning by and exposure to nonopioid analgesics, antipyretics and antirheumatics"	"X60"	"2017"	"2017"	11	21100662	Unreliable
+	"Female"	"F"	"15-24 years"	"15-24"	"Intentional self-poisoning by and exposure to nonopioid analgesics, antipyretics and antirheumatics"	"X60"	"2018"	"2018"	4	20994345	Unreliable
+"Total"	"Female"	"F"	"15-24 years"	"15-24"	"Intentional self-poisoning by and exposure to nonopioid analgesics, antipyretics and antirheumatics"	"X60"			15	42095007	Unreliable
+	"Female"	"F"	"15-24 years"	"15-24"	"Intentional self-poisoning by and exposure to antiepileptic, sedative-hypnotic, antiparkinsonism and psychotropic drugs, not elsewhere classified"	"X61"	"2017"	"2017"	37	21100662	0.2
+	"Female"	"F"	"15-24 years"	"15-24"	"Intentional self-poisoning by and exposure to antiepileptic, sedative-hypnotic, antiparkinsonism and psychotropic drugs, not elsewhere classified"	"X61"	"2018"	"2018"	44	20994345	0.2
+"Total"	"Female"	"F"	"15-24 years"	"15-24"	"Intentional self-poisoning by and exposure to antiepileptic, sedative-hypnotic, antiparkinsonism and psychotropic drugs, not elsewhere classified"	"X61"			81	42095007	0.2
+	"Female"	"F"	"15-24 years"	"15-24"	"Intentional self-poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified"	"X62"	"2017"	"2017"	19	21100662	Unreliable
+	"Female"	"F"	"15-24 years"	"15-24"	"Intentional self-poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified"	"X62"	"2018"	"2018"	15	20994345	Unreliable
+"Total"	"Female"	"F"	"15-24 years"	"15-24"	"Intentional self-poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified"	"X62"			34	42095007	0.1
+	"Female"	"F"	"15-24 years"	"15-24"	"Intentional self-poisoning by and exposure to other drugs acting on the autonomic nervous system"	"X63"	"2017"	"2017"	3	21100662	Unreliable
+	"Female"	"F"	"15-24 years"	"15-24"	"Intentional self-poisoning by and exposure to other drugs acting on the autonomic nervous system"	"X63"	"2018"	"2018"	5	20994345	Unreliable
+"Total"	"Female"	"F"	"15-24 years"	"15-24"	"Intentional self-poisoning by and exposure to other drugs acting on the autonomic nervous system"	"X63"			8	42095007	Unreliable
+	"Female"	"F"	"15-24 years"	"15-24"	"Intentional self-poisoning by and exposure to other and unspecified drugs, medicaments and biological substances"	"X64"	"2017"	"2017"	114	21100662	0.5
+	"Female"	"F"	"15-24 years"	"15-24"	"Intentional self-poisoning by and exposure to other and unspecified drugs, medicaments and biological substances"	"X64"	"2018"	"2018"	113	20994345	0.5
+"Total"	"Female"	"F"	"15-24 years"	"15-24"	"Intentional self-poisoning by and exposure to other and unspecified drugs, medicaments and biological substances"	"X64"			227	42095007	0.5
+	"Female"	"F"	"15-24 years"	"15-24"	"Intentional self-poisoning by and exposure to alcohol"	"X65"	"2017"	"2017"	2	21100662	Unreliable
+"Total"	"Female"	"F"	"15-24 years"	"15-24"	"Intentional self-poisoning by and exposure to alcohol"	"X65"			2	42095007	Unreliable
+	"Female"	"F"	"15-24 years"	"15-24"	"Intentional self-poisoning by and exposure to organic solvents and halogenated hydrocarbons and their vapours"	"X66"	"2018"	"2018"	1	20994345	Unreliable
+"Total"	"Female"	"F"	"15-24 years"	"15-24"	"Intentional self-poisoning by and exposure to organic solvents and halogenated hydrocarbons and their vapours"	"X66"			1	42095007	Unreliable
+	"Female"	"F"	"15-24 years"	"15-24"	"Intentional self-poisoning by and exposure to other gases and vapours"	"X67"	"2017"	"2017"	21	21100662	0.1
+	"Female"	"F"	"15-24 years"	"15-24"	"Intentional self-poisoning by and exposure to other gases and vapours"	"X67"	"2018"	"2018"	22	20994345	0.1
+"Total"	"Female"	"F"	"15-24 years"	"15-24"	"Intentional self-poisoning by and exposure to other gases and vapours"	"X67"			43	42095007	0.1
+	"Female"	"F"	"15-24 years"	"15-24"	"Intentional self-poisoning by and exposure to pesticides"	"X68"	"2018"	"2018"	1	20994345	Unreliable
+"Total"	"Female"	"F"	"15-24 years"	"15-24"	"Intentional self-poisoning by and exposure to pesticides"	"X68"			1	42095007	Unreliable
+	"Female"	"F"	"15-24 years"	"15-24"	"Intentional self-poisoning by and exposure to other and unspecified chemicals and noxious substances"	"X69"	"2017"	"2017"	1	21100662	Unreliable
+	"Female"	"F"	"15-24 years"	"15-24"	"Intentional self-poisoning by and exposure to other and unspecified chemicals and noxious substances"	"X69"	"2018"	"2018"	1	20994345	Unreliable
+"Total"	"Female"	"F"	"15-24 years"	"15-24"	"Intentional self-poisoning by and exposure to other and unspecified chemicals and noxious substances"	"X69"			2	42095007	Unreliable
+	"Female"	"F"	"15-24 years"	"15-24"	"Intentional self-harm by hanging, strangulation and suffocation"	"X70"	"2017"	"2017"	592	21100662	2.8
+	"Female"	"F"	"15-24 years"	"15-24"	"Intentional self-harm by hanging, strangulation and suffocation"	"X70"	"2018"	"2018"	551	20994345	2.6
+"Total"	"Female"	"F"	"15-24 years"	"15-24"	"Intentional self-harm by hanging, strangulation and suffocation"	"X70"			1143	42095007	2.7
+	"Female"	"F"	"15-24 years"	"15-24"	"Intentional self-harm by drowning and submersion"	"X71"	"2017"	"2017"	12	21100662	Unreliable
+	"Female"	"F"	"15-24 years"	"15-24"	"Intentional self-harm by drowning and submersion"	"X71"	"2018"	"2018"	15	20994345	Unreliable
+"Total"	"Female"	"F"	"15-24 years"	"15-24"	"Intentional self-harm by drowning and submersion"	"X71"			27	42095007	0.1
+	"Female"	"F"	"15-24 years"	"15-24"	"Intentional self-harm by handgun discharge"	"X72"	"2017"	"2017"	99	21100662	0.5
+	"Female"	"F"	"15-24 years"	"15-24"	"Intentional self-harm by handgun discharge"	"X72"	"2018"	"2018"	96	20994345	0.5
+"Total"	"Female"	"F"	"15-24 years"	"15-24"	"Intentional self-harm by handgun discharge"	"X72"			195	42095007	0.5
+	"Female"	"F"	"15-24 years"	"15-24"	"Intentional self-harm by rifle, shotgun and larger firearm discharge"	"X73"	"2017"	"2017"	16	21100662	Unreliable
+	"Female"	"F"	"15-24 years"	"15-24"	"Intentional self-harm by rifle, shotgun and larger firearm discharge"	"X73"	"2018"	"2018"	33	20994345	0.2
+"Total"	"Female"	"F"	"15-24 years"	"15-24"	"Intentional self-harm by rifle, shotgun and larger firearm discharge"	"X73"			49	42095007	0.1
+	"Female"	"F"	"15-24 years"	"15-24"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"	"2017"	"2017"	206	21100662	1.0
+	"Female"	"F"	"15-24 years"	"15-24"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"	"2018"	"2018"	216	20994345	1.0
+"Total"	"Female"	"F"	"15-24 years"	"15-24"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"			422	42095007	1.0
+	"Female"	"F"	"15-24 years"	"15-24"	"Intentional self-harm by smoke, fire and flames"	"X76"	"2017"	"2017"	4	21100662	Unreliable
+	"Female"	"F"	"15-24 years"	"15-24"	"Intentional self-harm by smoke, fire and flames"	"X76"	"2018"	"2018"	3	20994345	Unreliable
+"Total"	"Female"	"F"	"15-24 years"	"15-24"	"Intentional self-harm by smoke, fire and flames"	"X76"			7	42095007	Unreliable
+	"Female"	"F"	"15-24 years"	"15-24"	"Intentional self-harm by sharp object"	"X78"	"2017"	"2017"	1	21100662	Unreliable
+	"Female"	"F"	"15-24 years"	"15-24"	"Intentional self-harm by sharp object"	"X78"	"2018"	"2018"	2	20994345	Unreliable
+"Total"	"Female"	"F"	"15-24 years"	"15-24"	"Intentional self-harm by sharp object"	"X78"			3	42095007	Unreliable
+	"Female"	"F"	"15-24 years"	"15-24"	"Intentional self-harm by jumping from a high place"	"X80"	"2017"	"2017"	37	21100662	0.2
+	"Female"	"F"	"15-24 years"	"15-24"	"Intentional self-harm by jumping from a high place"	"X80"	"2018"	"2018"	44	20994345	0.2
+"Total"	"Female"	"F"	"15-24 years"	"15-24"	"Intentional self-harm by jumping from a high place"	"X80"			81	42095007	0.2
+	"Female"	"F"	"15-24 years"	"15-24"	"Intentional self-harm by jumping or lying before moving object"	"X81"	"2017"	"2017"	34	21100662	0.2
+	"Female"	"F"	"15-24 years"	"15-24"	"Intentional self-harm by jumping or lying before moving object"	"X81"	"2018"	"2018"	29	20994345	0.1
+"Total"	"Female"	"F"	"15-24 years"	"15-24"	"Intentional self-harm by jumping or lying before moving object"	"X81"			63	42095007	0.1
+	"Female"	"F"	"15-24 years"	"15-24"	"Intentional self-harm by crashing of motor vehicle"	"X82"	"2017"	"2017"	9	21100662	Unreliable
+	"Female"	"F"	"15-24 years"	"15-24"	"Intentional self-harm by crashing of motor vehicle"	"X82"	"2018"	"2018"	20	20994345	0.1
+"Total"	"Female"	"F"	"15-24 years"	"15-24"	"Intentional self-harm by crashing of motor vehicle"	"X82"			29	42095007	0.1
+	"Female"	"F"	"15-24 years"	"15-24"	"Intentional self-harm by other specified means"	"X83"	"2017"	"2017"	4	21100662	Unreliable
+	"Female"	"F"	"15-24 years"	"15-24"	"Intentional self-harm by other specified means"	"X83"	"2018"	"2018"	4	20994345	Unreliable
+"Total"	"Female"	"F"	"15-24 years"	"15-24"	"Intentional self-harm by other specified means"	"X83"			8	42095007	Unreliable
+	"Female"	"F"	"15-24 years"	"15-24"	"Intentional self-harm by unspecified means"	"X84"	"2017"	"2017"	3	21100662	Unreliable
+	"Female"	"F"	"15-24 years"	"15-24"	"Intentional self-harm by unspecified means"	"X84"	"2018"	"2018"	3	20994345	Unreliable
+"Total"	"Female"	"F"	"15-24 years"	"15-24"	"Intentional self-harm by unspecified means"	"X84"			6	42095007	Unreliable
+"Total"	"Female"	"F"	"15-24 years"	"15-24"					2447	42095007	5.8
+	"Female"	"F"	"25-34 years"	"25-34"	"Intentional self-poisoning by and exposure to nonopioid analgesics, antipyretics and antirheumatics"	"X60"	"2017"	"2017"	10	22351311	Unreliable
+	"Female"	"F"	"25-34 years"	"25-34"	"Intentional self-poisoning by and exposure to nonopioid analgesics, antipyretics and antirheumatics"	"X60"	"2018"	"2018"	8	22487065	Unreliable
+"Total"	"Female"	"F"	"25-34 years"	"25-34"	"Intentional self-poisoning by and exposure to nonopioid analgesics, antipyretics and antirheumatics"	"X60"			18	44838376	Unreliable
+	"Female"	"F"	"25-34 years"	"25-34"	"Intentional self-poisoning by and exposure to antiepileptic, sedative-hypnotic, antiparkinsonism and psychotropic drugs, not elsewhere classified"	"X61"	"2017"	"2017"	60	22351311	0.3
+	"Female"	"F"	"25-34 years"	"25-34"	"Intentional self-poisoning by and exposure to antiepileptic, sedative-hypnotic, antiparkinsonism and psychotropic drugs, not elsewhere classified"	"X61"	"2018"	"2018"	54	22487065	0.2
+"Total"	"Female"	"F"	"25-34 years"	"25-34"	"Intentional self-poisoning by and exposure to antiepileptic, sedative-hypnotic, antiparkinsonism and psychotropic drugs, not elsewhere classified"	"X61"			114	44838376	0.3
+	"Female"	"F"	"25-34 years"	"25-34"	"Intentional self-poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified"	"X62"	"2017"	"2017"	35	22351311	0.2
+	"Female"	"F"	"25-34 years"	"25-34"	"Intentional self-poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified"	"X62"	"2018"	"2018"	18	22487065	Unreliable
+"Total"	"Female"	"F"	"25-34 years"	"25-34"	"Intentional self-poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified"	"X62"			53	44838376	0.1
+	"Female"	"F"	"25-34 years"	"25-34"	"Intentional self-poisoning by and exposure to other drugs acting on the autonomic nervous system"	"X63"	"2017"	"2017"	2	22351311	Unreliable
+	"Female"	"F"	"25-34 years"	"25-34"	"Intentional self-poisoning by and exposure to other drugs acting on the autonomic nervous system"	"X63"	"2018"	"2018"	6	22487065	Unreliable
+"Total"	"Female"	"F"	"25-34 years"	"25-34"	"Intentional self-poisoning by and exposure to other drugs acting on the autonomic nervous system"	"X63"			8	44838376	Unreliable
+	"Female"	"F"	"25-34 years"	"25-34"	"Intentional self-poisoning by and exposure to other and unspecified drugs, medicaments and biological substances"	"X64"	"2017"	"2017"	172	22351311	0.8
+	"Female"	"F"	"25-34 years"	"25-34"	"Intentional self-poisoning by and exposure to other and unspecified drugs, medicaments and biological substances"	"X64"	"2018"	"2018"	175	22487065	0.8
+"Total"	"Female"	"F"	"25-34 years"	"25-34"	"Intentional self-poisoning by and exposure to other and unspecified drugs, medicaments and biological substances"	"X64"			347	44838376	0.8
+	"Female"	"F"	"25-34 years"	"25-34"	"Intentional self-poisoning by and exposure to alcohol"	"X65"	"2017"	"2017"	2	22351311	Unreliable
+	"Female"	"F"	"25-34 years"	"25-34"	"Intentional self-poisoning by and exposure to alcohol"	"X65"	"2018"	"2018"	5	22487065	Unreliable
+"Total"	"Female"	"F"	"25-34 years"	"25-34"	"Intentional self-poisoning by and exposure to alcohol"	"X65"			7	44838376	Unreliable
+	"Female"	"F"	"25-34 years"	"25-34"	"Intentional self-poisoning by and exposure to organic solvents and halogenated hydrocarbons and their vapours"	"X66"	"2017"	"2017"	4	22351311	Unreliable
+	"Female"	"F"	"25-34 years"	"25-34"	"Intentional self-poisoning by and exposure to organic solvents and halogenated hydrocarbons and their vapours"	"X66"	"2018"	"2018"	2	22487065	Unreliable
+"Total"	"Female"	"F"	"25-34 years"	"25-34"	"Intentional self-poisoning by and exposure to organic solvents and halogenated hydrocarbons and their vapours"	"X66"			6	44838376	Unreliable
+	"Female"	"F"	"25-34 years"	"25-34"	"Intentional self-poisoning by and exposure to other gases and vapours"	"X67"	"2017"	"2017"	39	22351311	0.2
+	"Female"	"F"	"25-34 years"	"25-34"	"Intentional self-poisoning by and exposure to other gases and vapours"	"X67"	"2018"	"2018"	37	22487065	0.2
+"Total"	"Female"	"F"	"25-34 years"	"25-34"	"Intentional self-poisoning by and exposure to other gases and vapours"	"X67"			76	44838376	0.2
+	"Female"	"F"	"25-34 years"	"25-34"	"Intentional self-poisoning by and exposure to pesticides"	"X68"	"2018"	"2018"	1	22487065	Unreliable
+"Total"	"Female"	"F"	"25-34 years"	"25-34"	"Intentional self-poisoning by and exposure to pesticides"	"X68"			1	44838376	Unreliable
+	"Female"	"F"	"25-34 years"	"25-34"	"Intentional self-poisoning by and exposure to other and unspecified chemicals and noxious substances"	"X69"	"2017"	"2017"	1	22351311	Unreliable
+	"Female"	"F"	"25-34 years"	"25-34"	"Intentional self-poisoning by and exposure to other and unspecified chemicals and noxious substances"	"X69"	"2018"	"2018"	6	22487065	Unreliable
+"Total"	"Female"	"F"	"25-34 years"	"25-34"	"Intentional self-poisoning by and exposure to other and unspecified chemicals and noxious substances"	"X69"			7	44838376	Unreliable
+	"Female"	"F"	"25-34 years"	"25-34"	"Intentional self-harm by hanging, strangulation and suffocation"	"X70"	"2017"	"2017"	645	22351311	2.9
+	"Female"	"F"	"25-34 years"	"25-34"	"Intentional self-harm by hanging, strangulation and suffocation"	"X70"	"2018"	"2018"	700	22487065	3.1
+"Total"	"Female"	"F"	"25-34 years"	"25-34"	"Intentional self-harm by hanging, strangulation and suffocation"	"X70"			1345	44838376	3.0
+	"Female"	"F"	"25-34 years"	"25-34"	"Intentional self-harm by drowning and submersion"	"X71"	"2017"	"2017"	22	22351311	0.1
+	"Female"	"F"	"25-34 years"	"25-34"	"Intentional self-harm by drowning and submersion"	"X71"	"2018"	"2018"	34	22487065	0.2
+"Total"	"Female"	"F"	"25-34 years"	"25-34"	"Intentional self-harm by drowning and submersion"	"X71"			56	44838376	0.1
+	"Female"	"F"	"25-34 years"	"25-34"	"Intentional self-harm by handgun discharge"	"X72"	"2017"	"2017"	137	22351311	0.6
+	"Female"	"F"	"25-34 years"	"25-34"	"Intentional self-harm by handgun discharge"	"X72"	"2018"	"2018"	143	22487065	0.6
+"Total"	"Female"	"F"	"25-34 years"	"25-34"	"Intentional self-harm by handgun discharge"	"X72"			280	44838376	0.6
+	"Female"	"F"	"25-34 years"	"25-34"	"Intentional self-harm by rifle, shotgun and larger firearm discharge"	"X73"	"2017"	"2017"	25	22351311	0.1
+	"Female"	"F"	"25-34 years"	"25-34"	"Intentional self-harm by rifle, shotgun and larger firearm discharge"	"X73"	"2018"	"2018"	28	22487065	0.1
+"Total"	"Female"	"F"	"25-34 years"	"25-34"	"Intentional self-harm by rifle, shotgun and larger firearm discharge"	"X73"			53	44838376	0.1
+	"Female"	"F"	"25-34 years"	"25-34"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"	"2017"	"2017"	334	22351311	1.5
+	"Female"	"F"	"25-34 years"	"25-34"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"	"2018"	"2018"	328	22487065	1.5
+"Total"	"Female"	"F"	"25-34 years"	"25-34"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"			662	44838376	1.5
+	"Female"	"F"	"25-34 years"	"25-34"	"Intentional self-harm by explosive material"	"X75"	"2017"	"2017"	1	22351311	Unreliable
+"Total"	"Female"	"F"	"25-34 years"	"25-34"	"Intentional self-harm by explosive material"	"X75"			1	44838376	Unreliable
+	"Female"	"F"	"25-34 years"	"25-34"	"Intentional self-harm by smoke, fire and flames"	"X76"	"2017"	"2017"	3	22351311	Unreliable
+	"Female"	"F"	"25-34 years"	"25-34"	"Intentional self-harm by smoke, fire and flames"	"X76"	"2018"	"2018"	8	22487065	Unreliable
+"Total"	"Female"	"F"	"25-34 years"	"25-34"	"Intentional self-harm by smoke, fire and flames"	"X76"			11	44838376	Unreliable
+	"Female"	"F"	"25-34 years"	"25-34"	"Intentional self-harm by sharp object"	"X78"	"2017"	"2017"	20	22351311	0.1
+	"Female"	"F"	"25-34 years"	"25-34"	"Intentional self-harm by sharp object"	"X78"	"2018"	"2018"	19	22487065	Unreliable
+"Total"	"Female"	"F"	"25-34 years"	"25-34"	"Intentional self-harm by sharp object"	"X78"			39	44838376	0.1
+	"Female"	"F"	"25-34 years"	"25-34"	"Intentional self-harm by jumping from a high place"	"X80"	"2017"	"2017"	45	22351311	0.2
+	"Female"	"F"	"25-34 years"	"25-34"	"Intentional self-harm by jumping from a high place"	"X80"	"2018"	"2018"	51	22487065	0.2
+"Total"	"Female"	"F"	"25-34 years"	"25-34"	"Intentional self-harm by jumping from a high place"	"X80"			96	44838376	0.2
+	"Female"	"F"	"25-34 years"	"25-34"	"Intentional self-harm by jumping or lying before moving object"	"X81"	"2017"	"2017"	30	22351311	0.1
+	"Female"	"F"	"25-34 years"	"25-34"	"Intentional self-harm by jumping or lying before moving object"	"X81"	"2018"	"2018"	37	22487065	0.2
+"Total"	"Female"	"F"	"25-34 years"	"25-34"	"Intentional self-harm by jumping or lying before moving object"	"X81"			67	44838376	0.1
+	"Female"	"F"	"25-34 years"	"25-34"	"Intentional self-harm by crashing of motor vehicle"	"X82"	"2017"	"2017"	8	22351311	Unreliable
+	"Female"	"F"	"25-34 years"	"25-34"	"Intentional self-harm by crashing of motor vehicle"	"X82"	"2018"	"2018"	1	22487065	Unreliable
+"Total"	"Female"	"F"	"25-34 years"	"25-34"	"Intentional self-harm by crashing of motor vehicle"	"X82"			9	44838376	Unreliable
+	"Female"	"F"	"25-34 years"	"25-34"	"Intentional self-harm by other specified means"	"X83"	"2017"	"2017"	1	22351311	Unreliable
+	"Female"	"F"	"25-34 years"	"25-34"	"Intentional self-harm by other specified means"	"X83"	"2018"	"2018"	7	22487065	Unreliable
+"Total"	"Female"	"F"	"25-34 years"	"25-34"	"Intentional self-harm by other specified means"	"X83"			8	44838376	Unreliable
+	"Female"	"F"	"25-34 years"	"25-34"	"Intentional self-harm by unspecified means"	"X84"	"2017"	"2017"	2	22351311	Unreliable
+"Total"	"Female"	"F"	"25-34 years"	"25-34"	"Intentional self-harm by unspecified means"	"X84"			2	44838376	Unreliable
+"Total"	"Female"	"F"	"25-34 years"	"25-34"					3266	44838376	7.3
+	"Female"	"F"	"35-44 years"	"35-44"	"Intentional self-poisoning by and exposure to nonopioid analgesics, antipyretics and antirheumatics"	"X60"	"2017"	"2017"	10	20506270	Unreliable
+	"Female"	"F"	"35-44 years"	"35-44"	"Intentional self-poisoning by and exposure to nonopioid analgesics, antipyretics and antirheumatics"	"X60"	"2018"	"2018"	12	20690288	Unreliable
+"Total"	"Female"	"F"	"35-44 years"	"35-44"	"Intentional self-poisoning by and exposure to nonopioid analgesics, antipyretics and antirheumatics"	"X60"			22	41196558	0.1
+	"Female"	"F"	"35-44 years"	"35-44"	"Intentional self-poisoning by and exposure to antiepileptic, sedative-hypnotic, antiparkinsonism and psychotropic drugs, not elsewhere classified"	"X61"	"2017"	"2017"	98	20506270	0.5
+	"Female"	"F"	"35-44 years"	"35-44"	"Intentional self-poisoning by and exposure to antiepileptic, sedative-hypnotic, antiparkinsonism and psychotropic drugs, not elsewhere classified"	"X61"	"2018"	"2018"	108	20690288	0.5
+"Total"	"Female"	"F"	"35-44 years"	"35-44"	"Intentional self-poisoning by and exposure to antiepileptic, sedative-hypnotic, antiparkinsonism and psychotropic drugs, not elsewhere classified"	"X61"			206	41196558	0.5
+	"Female"	"F"	"35-44 years"	"35-44"	"Intentional self-poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified"	"X62"	"2017"	"2017"	31	20506270	0.2
+	"Female"	"F"	"35-44 years"	"35-44"	"Intentional self-poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified"	"X62"	"2018"	"2018"	33	20690288	0.2
+"Total"	"Female"	"F"	"35-44 years"	"35-44"	"Intentional self-poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified"	"X62"			64	41196558	0.2
+	"Female"	"F"	"35-44 years"	"35-44"	"Intentional self-poisoning by and exposure to other drugs acting on the autonomic nervous system"	"X63"	"2017"	"2017"	8	20506270	Unreliable
+	"Female"	"F"	"35-44 years"	"35-44"	"Intentional self-poisoning by and exposure to other drugs acting on the autonomic nervous system"	"X63"	"2018"	"2018"	4	20690288	Unreliable
+"Total"	"Female"	"F"	"35-44 years"	"35-44"	"Intentional self-poisoning by and exposure to other drugs acting on the autonomic nervous system"	"X63"			12	41196558	Unreliable
+	"Female"	"F"	"35-44 years"	"35-44"	"Intentional self-poisoning by and exposure to other and unspecified drugs, medicaments and biological substances"	"X64"	"2017"	"2017"	298	20506270	1.5
+	"Female"	"F"	"35-44 years"	"35-44"	"Intentional self-poisoning by and exposure to other and unspecified drugs, medicaments and biological substances"	"X64"	"2018"	"2018"	284	20690288	1.4
+"Total"	"Female"	"F"	"35-44 years"	"35-44"	"Intentional self-poisoning by and exposure to other and unspecified drugs, medicaments and biological substances"	"X64"			582	41196558	1.4
+	"Female"	"F"	"35-44 years"	"35-44"	"Intentional self-poisoning by and exposure to alcohol"	"X65"	"2017"	"2017"	4	20506270	Unreliable
+	"Female"	"F"	"35-44 years"	"35-44"	"Intentional self-poisoning by and exposure to alcohol"	"X65"	"2018"	"2018"	3	20690288	Unreliable
+"Total"	"Female"	"F"	"35-44 years"	"35-44"	"Intentional self-poisoning by and exposure to alcohol"	"X65"			7	41196558	Unreliable
+	"Female"	"F"	"35-44 years"	"35-44"	"Intentional self-poisoning by and exposure to organic solvents and halogenated hydrocarbons and their vapours"	"X66"	"2017"	"2017"	7	20506270	Unreliable
+	"Female"	"F"	"35-44 years"	"35-44"	"Intentional self-poisoning by and exposure to organic solvents and halogenated hydrocarbons and their vapours"	"X66"	"2018"	"2018"	5	20690288	Unreliable
+"Total"	"Female"	"F"	"35-44 years"	"35-44"	"Intentional self-poisoning by and exposure to organic solvents and halogenated hydrocarbons and their vapours"	"X66"			12	41196558	Unreliable
+	"Female"	"F"	"35-44 years"	"35-44"	"Intentional self-poisoning by and exposure to other gases and vapours"	"X67"	"2017"	"2017"	51	20506270	0.2
+	"Female"	"F"	"35-44 years"	"35-44"	"Intentional self-poisoning by and exposure to other gases and vapours"	"X67"	"2018"	"2018"	39	20690288	0.2
+"Total"	"Female"	"F"	"35-44 years"	"35-44"	"Intentional self-poisoning by and exposure to other gases and vapours"	"X67"			90	41196558	0.2
+	"Female"	"F"	"35-44 years"	"35-44"	"Intentional self-poisoning by and exposure to pesticides"	"X68"	"2017"	"2017"	1	20506270	Unreliable
+"Total"	"Female"	"F"	"35-44 years"	"35-44"	"Intentional self-poisoning by and exposure to pesticides"	"X68"			1	41196558	Unreliable
+	"Female"	"F"	"35-44 years"	"35-44"	"Intentional self-poisoning by and exposure to other and unspecified chemicals and noxious substances"	"X69"	"2017"	"2017"	2	20506270	Unreliable
+	"Female"	"F"	"35-44 years"	"35-44"	"Intentional self-poisoning by and exposure to other and unspecified chemicals and noxious substances"	"X69"	"2018"	"2018"	9	20690288	Unreliable
+"Total"	"Female"	"F"	"35-44 years"	"35-44"	"Intentional self-poisoning by and exposure to other and unspecified chemicals and noxious substances"	"X69"			11	41196558	Unreliable
+	"Female"	"F"	"35-44 years"	"35-44"	"Intentional self-harm by hanging, strangulation and suffocation"	"X70"	"2017"	"2017"	564	20506270	2.8
+	"Female"	"F"	"35-44 years"	"35-44"	"Intentional self-harm by hanging, strangulation and suffocation"	"X70"	"2018"	"2018"	562	20690288	2.7
+"Total"	"Female"	"F"	"35-44 years"	"35-44"	"Intentional self-harm by hanging, strangulation and suffocation"	"X70"			1126	41196558	2.7
+	"Female"	"F"	"35-44 years"	"35-44"	"Intentional self-harm by drowning and submersion"	"X71"	"2017"	"2017"	25	20506270	0.1
+	"Female"	"F"	"35-44 years"	"35-44"	"Intentional self-harm by drowning and submersion"	"X71"	"2018"	"2018"	23	20690288	0.1
+"Total"	"Female"	"F"	"35-44 years"	"35-44"	"Intentional self-harm by drowning and submersion"	"X71"			48	41196558	0.1
+	"Female"	"F"	"35-44 years"	"35-44"	"Intentional self-harm by handgun discharge"	"X72"	"2017"	"2017"	159	20506270	0.8
+	"Female"	"F"	"35-44 years"	"35-44"	"Intentional self-harm by handgun discharge"	"X72"	"2018"	"2018"	148	20690288	0.7
+"Total"	"Female"	"F"	"35-44 years"	"35-44"	"Intentional self-harm by handgun discharge"	"X72"			307	41196558	0.7
+	"Female"	"F"	"35-44 years"	"35-44"	"Intentional self-harm by rifle, shotgun and larger firearm discharge"	"X73"	"2017"	"2017"	25	20506270	0.1
+	"Female"	"F"	"35-44 years"	"35-44"	"Intentional self-harm by rifle, shotgun and larger firearm discharge"	"X73"	"2018"	"2018"	26	20690288	0.1
+"Total"	"Female"	"F"	"35-44 years"	"35-44"	"Intentional self-harm by rifle, shotgun and larger firearm discharge"	"X73"			51	41196558	0.1
+	"Female"	"F"	"35-44 years"	"35-44"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"	"2017"	"2017"	324	20506270	1.6
+	"Female"	"F"	"35-44 years"	"35-44"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"	"2018"	"2018"	345	20690288	1.7
+"Total"	"Female"	"F"	"35-44 years"	"35-44"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"			669	41196558	1.6
+	"Female"	"F"	"35-44 years"	"35-44"	"Intentional self-harm by smoke, fire and flames"	"X76"	"2017"	"2017"	15	20506270	Unreliable
+	"Female"	"F"	"35-44 years"	"35-44"	"Intentional self-harm by smoke, fire and flames"	"X76"	"2018"	"2018"	13	20690288	Unreliable
+"Total"	"Female"	"F"	"35-44 years"	"35-44"	"Intentional self-harm by smoke, fire and flames"	"X76"			28	41196558	0.1
+	"Female"	"F"	"35-44 years"	"35-44"	"Intentional self-harm by sharp object"	"X78"	"2017"	"2017"	26	20506270	0.1
+	"Female"	"F"	"35-44 years"	"35-44"	"Intentional self-harm by sharp object"	"X78"	"2018"	"2018"	24	20690288	0.1
+"Total"	"Female"	"F"	"35-44 years"	"35-44"	"Intentional self-harm by sharp object"	"X78"			50	41196558	0.1
+	"Female"	"F"	"35-44 years"	"35-44"	"Intentional self-harm by jumping from a high place"	"X80"	"2017"	"2017"	45	20506270	0.2
+	"Female"	"F"	"35-44 years"	"35-44"	"Intentional self-harm by jumping from a high place"	"X80"	"2018"	"2018"	55	20690288	0.3
+"Total"	"Female"	"F"	"35-44 years"	"35-44"	"Intentional self-harm by jumping from a high place"	"X80"			100	41196558	0.2
+	"Female"	"F"	"35-44 years"	"35-44"	"Intentional self-harm by jumping or lying before moving object"	"X81"	"2017"	"2017"	37	20506270	0.2
+	"Female"	"F"	"35-44 years"	"35-44"	"Intentional self-harm by jumping or lying before moving object"	"X81"	"2018"	"2018"	34	20690288	0.2
+"Total"	"Female"	"F"	"35-44 years"	"35-44"	"Intentional self-harm by jumping or lying before moving object"	"X81"			71	41196558	0.2
+	"Female"	"F"	"35-44 years"	"35-44"	"Intentional self-harm by crashing of motor vehicle"	"X82"	"2017"	"2017"	5	20506270	Unreliable
+	"Female"	"F"	"35-44 years"	"35-44"	"Intentional self-harm by crashing of motor vehicle"	"X82"	"2018"	"2018"	10	20690288	Unreliable
+"Total"	"Female"	"F"	"35-44 years"	"35-44"	"Intentional self-harm by crashing of motor vehicle"	"X82"			15	41196558	Unreliable
+	"Female"	"F"	"35-44 years"	"35-44"	"Intentional self-harm by other specified means"	"X83"	"2017"	"2017"	2	20506270	Unreliable
+	"Female"	"F"	"35-44 years"	"35-44"	"Intentional self-harm by other specified means"	"X83"	"2018"	"2018"	1	20690288	Unreliable
+"Total"	"Female"	"F"	"35-44 years"	"35-44"	"Intentional self-harm by other specified means"	"X83"			3	41196558	Unreliable
+	"Female"	"F"	"35-44 years"	"35-44"	"Intentional self-harm by unspecified means"	"X84"	"2018"	"2018"	4	20690288	Unreliable
+"Total"	"Female"	"F"	"35-44 years"	"35-44"	"Intentional self-harm by unspecified means"	"X84"			4	41196558	Unreliable
+"Total"	"Female"	"F"	"35-44 years"	"35-44"					3479	41196558	8.4
+	"Female"	"F"	"45-54 years"	"45-54"	"Intentional self-poisoning by and exposure to nonopioid analgesics, antipyretics and antirheumatics"	"X60"	"2017"	"2017"	11	21468595	Unreliable
+	"Female"	"F"	"45-54 years"	"45-54"	"Intentional self-poisoning by and exposure to nonopioid analgesics, antipyretics and antirheumatics"	"X60"	"2018"	"2018"	15	21090497	Unreliable
+"Total"	"Female"	"F"	"45-54 years"	"45-54"	"Intentional self-poisoning by and exposure to nonopioid analgesics, antipyretics and antirheumatics"	"X60"			26	42559092	0.1
+	"Female"	"F"	"45-54 years"	"45-54"	"Intentional self-poisoning by and exposure to antiepileptic, sedative-hypnotic, antiparkinsonism and psychotropic drugs, not elsewhere classified"	"X61"	"2017"	"2017"	152	21468595	0.7
+	"Female"	"F"	"45-54 years"	"45-54"	"Intentional self-poisoning by and exposure to antiepileptic, sedative-hypnotic, antiparkinsonism and psychotropic drugs, not elsewhere classified"	"X61"	"2018"	"2018"	150	21090497	0.7
+"Total"	"Female"	"F"	"45-54 years"	"45-54"	"Intentional self-poisoning by and exposure to antiepileptic, sedative-hypnotic, antiparkinsonism and psychotropic drugs, not elsewhere classified"	"X61"			302	42559092	0.7
+	"Female"	"F"	"45-54 years"	"45-54"	"Intentional self-poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified"	"X62"	"2017"	"2017"	66	21468595	0.3
+	"Female"	"F"	"45-54 years"	"45-54"	"Intentional self-poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified"	"X62"	"2018"	"2018"	48	21090497	0.2
+"Total"	"Female"	"F"	"45-54 years"	"45-54"	"Intentional self-poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified"	"X62"			114	42559092	0.3
+	"Female"	"F"	"45-54 years"	"45-54"	"Intentional self-poisoning by and exposure to other drugs acting on the autonomic nervous system"	"X63"	"2017"	"2017"	7	21468595	Unreliable
+	"Female"	"F"	"45-54 years"	"45-54"	"Intentional self-poisoning by and exposure to other drugs acting on the autonomic nervous system"	"X63"	"2018"	"2018"	6	21090497	Unreliable
+"Total"	"Female"	"F"	"45-54 years"	"45-54"	"Intentional self-poisoning by and exposure to other drugs acting on the autonomic nervous system"	"X63"			13	42559092	Unreliable
+	"Female"	"F"	"45-54 years"	"45-54"	"Intentional self-poisoning by and exposure to other and unspecified drugs, medicaments and biological substances"	"X64"	"2017"	"2017"	504	21468595	2.3
+	"Female"	"F"	"45-54 years"	"45-54"	"Intentional self-poisoning by and exposure to other and unspecified drugs, medicaments and biological substances"	"X64"	"2018"	"2018"	413	21090497	2.0
+"Total"	"Female"	"F"	"45-54 years"	"45-54"	"Intentional self-poisoning by and exposure to other and unspecified drugs, medicaments and biological substances"	"X64"			917	42559092	2.2
+	"Female"	"F"	"45-54 years"	"45-54"	"Intentional self-poisoning by and exposure to alcohol"	"X65"	"2017"	"2017"	2	21468595	Unreliable
+	"Female"	"F"	"45-54 years"	"45-54"	"Intentional self-poisoning by and exposure to alcohol"	"X65"	"2018"	"2018"	4	21090497	Unreliable
+"Total"	"Female"	"F"	"45-54 years"	"45-54"	"Intentional self-poisoning by and exposure to alcohol"	"X65"			6	42559092	Unreliable
+	"Female"	"F"	"45-54 years"	"45-54"	"Intentional self-poisoning by and exposure to organic solvents and halogenated hydrocarbons and their vapours"	"X66"	"2017"	"2017"	11	21468595	Unreliable
+	"Female"	"F"	"45-54 years"	"45-54"	"Intentional self-poisoning by and exposure to organic solvents and halogenated hydrocarbons and their vapours"	"X66"	"2018"	"2018"	6	21090497	Unreliable
+"Total"	"Female"	"F"	"45-54 years"	"45-54"	"Intentional self-poisoning by and exposure to organic solvents and halogenated hydrocarbons and their vapours"	"X66"			17	42559092	Unreliable
+	"Female"	"F"	"45-54 years"	"45-54"	"Intentional self-poisoning by and exposure to other gases and vapours"	"X67"	"2017"	"2017"	71	21468595	0.3
+	"Female"	"F"	"45-54 years"	"45-54"	"Intentional self-poisoning by and exposure to other gases and vapours"	"X67"	"2018"	"2018"	50	21090497	0.2
+"Total"	"Female"	"F"	"45-54 years"	"45-54"	"Intentional self-poisoning by and exposure to other gases and vapours"	"X67"			121	42559092	0.3
+	"Female"	"F"	"45-54 years"	"45-54"	"Intentional self-poisoning by and exposure to pesticides"	"X68"	"2018"	"2018"	2	21090497	Unreliable
+"Total"	"Female"	"F"	"45-54 years"	"45-54"	"Intentional self-poisoning by and exposure to pesticides"	"X68"			2	42559092	Unreliable
+	"Female"	"F"	"45-54 years"	"45-54"	"Intentional self-poisoning by and exposure to other and unspecified chemicals and noxious substances"	"X69"	"2017"	"2017"	7	21468595	Unreliable
+	"Female"	"F"	"45-54 years"	"45-54"	"Intentional self-poisoning by and exposure to other and unspecified chemicals and noxious substances"	"X69"	"2018"	"2018"	5	21090497	Unreliable
+"Total"	"Female"	"F"	"45-54 years"	"45-54"	"Intentional self-poisoning by and exposure to other and unspecified chemicals and noxious substances"	"X69"			12	42559092	Unreliable
+	"Female"	"F"	"45-54 years"	"45-54"	"Intentional self-harm by hanging, strangulation and suffocation"	"X70"	"2017"	"2017"	458	21468595	2.1
+	"Female"	"F"	"45-54 years"	"45-54"	"Intentional self-harm by hanging, strangulation and suffocation"	"X70"	"2018"	"2018"	572	21090497	2.7
+"Total"	"Female"	"F"	"45-54 years"	"45-54"	"Intentional self-harm by hanging, strangulation and suffocation"	"X70"			1030	42559092	2.4
+	"Female"	"F"	"45-54 years"	"45-54"	"Intentional self-harm by drowning and submersion"	"X71"	"2017"	"2017"	39	21468595	0.2
+	"Female"	"F"	"45-54 years"	"45-54"	"Intentional self-harm by drowning and submersion"	"X71"	"2018"	"2018"	43	21090497	0.2
+"Total"	"Female"	"F"	"45-54 years"	"45-54"	"Intentional self-harm by drowning and submersion"	"X71"			82	42559092	0.2
+	"Female"	"F"	"45-54 years"	"45-54"	"Intentional self-harm by handgun discharge"	"X72"	"2017"	"2017"	223	21468595	1.0
+	"Female"	"F"	"45-54 years"	"45-54"	"Intentional self-harm by handgun discharge"	"X72"	"2018"	"2018"	199	21090497	0.9
+"Total"	"Female"	"F"	"45-54 years"	"45-54"	"Intentional self-harm by handgun discharge"	"X72"			422	42559092	1.0
+	"Female"	"F"	"45-54 years"	"45-54"	"Intentional self-harm by rifle, shotgun and larger firearm discharge"	"X73"	"2017"	"2017"	35	21468595	0.2
+	"Female"	"F"	"45-54 years"	"45-54"	"Intentional self-harm by rifle, shotgun and larger firearm discharge"	"X73"	"2018"	"2018"	34	21090497	0.2
+"Total"	"Female"	"F"	"45-54 years"	"45-54"	"Intentional self-harm by rifle, shotgun and larger firearm discharge"	"X73"			69	42559092	0.2
+	"Female"	"F"	"45-54 years"	"45-54"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"	"2017"	"2017"	476	21468595	2.2
+	"Female"	"F"	"45-54 years"	"45-54"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"	"2018"	"2018"	451	21090497	2.1
+"Total"	"Female"	"F"	"45-54 years"	"45-54"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"			927	42559092	2.2
+	"Female"	"F"	"45-54 years"	"45-54"	"Intentional self-harm by smoke, fire and flames"	"X76"	"2017"	"2017"	16	21468595	Unreliable
+	"Female"	"F"	"45-54 years"	"45-54"	"Intentional self-harm by smoke, fire and flames"	"X76"	"2018"	"2018"	17	21090497	Unreliable
+"Total"	"Female"	"F"	"45-54 years"	"45-54"	"Intentional self-harm by smoke, fire and flames"	"X76"			33	42559092	0.1
+	"Female"	"F"	"45-54 years"	"45-54"	"Intentional self-harm by sharp object"	"X78"	"2017"	"2017"	37	21468595	0.2
+	"Female"	"F"	"45-54 years"	"45-54"	"Intentional self-harm by sharp object"	"X78"	"2018"	"2018"	38	21090497	0.2
+"Total"	"Female"	"F"	"45-54 years"	"45-54"	"Intentional self-harm by sharp object"	"X78"			75	42559092	0.2
+	"Female"	"F"	"45-54 years"	"45-54"	"Intentional self-harm by jumping from a high place"	"X80"	"2017"	"2017"	69	21468595	0.3
+	"Female"	"F"	"45-54 years"	"45-54"	"Intentional self-harm by jumping from a high place"	"X80"	"2018"	"2018"	50	21090497	0.2
+"Total"	"Female"	"F"	"45-54 years"	"45-54"	"Intentional self-harm by jumping from a high place"	"X80"			119	42559092	0.3
+	"Female"	"F"	"45-54 years"	"45-54"	"Intentional self-harm by jumping or lying before moving object"	"X81"	"2017"	"2017"	31	21468595	0.1
+	"Female"	"F"	"45-54 years"	"45-54"	"Intentional self-harm by jumping or lying before moving object"	"X81"	"2018"	"2018"	21	21090497	0.1
+"Total"	"Female"	"F"	"45-54 years"	"45-54"	"Intentional self-harm by jumping or lying before moving object"	"X81"			52	42559092	0.1
+	"Female"	"F"	"45-54 years"	"45-54"	"Intentional self-harm by crashing of motor vehicle"	"X82"	"2017"	"2017"	6	21468595	Unreliable
+	"Female"	"F"	"45-54 years"	"45-54"	"Intentional self-harm by crashing of motor vehicle"	"X82"	"2018"	"2018"	6	21090497	Unreliable
+"Total"	"Female"	"F"	"45-54 years"	"45-54"	"Intentional self-harm by crashing of motor vehicle"	"X82"			12	42559092	Unreliable
+	"Female"	"F"	"45-54 years"	"45-54"	"Intentional self-harm by other specified means"	"X83"	"2017"	"2017"	4	21468595	Unreliable
+	"Female"	"F"	"45-54 years"	"45-54"	"Intentional self-harm by other specified means"	"X83"	"2018"	"2018"	2	21090497	Unreliable
+"Total"	"Female"	"F"	"45-54 years"	"45-54"	"Intentional self-harm by other specified means"	"X83"			6	42559092	Unreliable
+	"Female"	"F"	"45-54 years"	"45-54"	"Intentional self-harm by unspecified means"	"X84"	"2017"	"2017"	3	21468595	Unreliable
+	"Female"	"F"	"45-54 years"	"45-54"	"Intentional self-harm by unspecified means"	"X84"	"2018"	"2018"	8	21090497	Unreliable
+"Total"	"Female"	"F"	"45-54 years"	"45-54"	"Intentional self-harm by unspecified means"	"X84"			11	42559092	Unreliable
+"Total"	"Female"	"F"	"45-54 years"	"45-54"					4368	42559092	10.3
+	"Female"	"F"	"55-64 years"	"55-64"	"Intentional self-poisoning by and exposure to nonopioid analgesics, antipyretics and antirheumatics"	"X60"	"2017"	"2017"	20	21737855	0.1
+	"Female"	"F"	"55-64 years"	"55-64"	"Intentional self-poisoning by and exposure to nonopioid analgesics, antipyretics and antirheumatics"	"X60"	"2018"	"2018"	13	21873773	Unreliable
+"Total"	"Female"	"F"	"55-64 years"	"55-64"	"Intentional self-poisoning by and exposure to nonopioid analgesics, antipyretics and antirheumatics"	"X60"			33	43611628	0.1
+	"Female"	"F"	"55-64 years"	"55-64"	"Intentional self-poisoning by and exposure to antiepileptic, sedative-hypnotic, antiparkinsonism and psychotropic drugs, not elsewhere classified"	"X61"	"2017"	"2017"	144	21737855	0.7
+	"Female"	"F"	"55-64 years"	"55-64"	"Intentional self-poisoning by and exposure to antiepileptic, sedative-hypnotic, antiparkinsonism and psychotropic drugs, not elsewhere classified"	"X61"	"2018"	"2018"	165	21873773	0.8
+"Total"	"Female"	"F"	"55-64 years"	"55-64"	"Intentional self-poisoning by and exposure to antiepileptic, sedative-hypnotic, antiparkinsonism and psychotropic drugs, not elsewhere classified"	"X61"			309	43611628	0.7
+	"Female"	"F"	"55-64 years"	"55-64"	"Intentional self-poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified"	"X62"	"2017"	"2017"	69	21737855	0.3
+	"Female"	"F"	"55-64 years"	"55-64"	"Intentional self-poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified"	"X62"	"2018"	"2018"	77	21873773	0.4
+"Total"	"Female"	"F"	"55-64 years"	"55-64"	"Intentional self-poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified"	"X62"			146	43611628	0.3
+	"Female"	"F"	"55-64 years"	"55-64"	"Intentional self-poisoning by and exposure to other drugs acting on the autonomic nervous system"	"X63"	"2017"	"2017"	4	21737855	Unreliable
+	"Female"	"F"	"55-64 years"	"55-64"	"Intentional self-poisoning by and exposure to other drugs acting on the autonomic nervous system"	"X63"	"2018"	"2018"	8	21873773	Unreliable
+"Total"	"Female"	"F"	"55-64 years"	"55-64"	"Intentional self-poisoning by and exposure to other drugs acting on the autonomic nervous system"	"X63"			12	43611628	Unreliable
+	"Female"	"F"	"55-64 years"	"55-64"	"Intentional self-poisoning by and exposure to other and unspecified drugs, medicaments and biological substances"	"X64"	"2017"	"2017"	435	21737855	2.0
+	"Female"	"F"	"55-64 years"	"55-64"	"Intentional self-poisoning by and exposure to other and unspecified drugs, medicaments and biological substances"	"X64"	"2018"	"2018"	430	21873773	2.0
+"Total"	"Female"	"F"	"55-64 years"	"55-64"	"Intentional self-poisoning by and exposure to other and unspecified drugs, medicaments and biological substances"	"X64"			865	43611628	2.0
+	"Female"	"F"	"55-64 years"	"55-64"	"Intentional self-poisoning by and exposure to alcohol"	"X65"	"2017"	"2017"	5	21737855	Unreliable
+	"Female"	"F"	"55-64 years"	"55-64"	"Intentional self-poisoning by and exposure to alcohol"	"X65"	"2018"	"2018"	3	21873773	Unreliable
+"Total"	"Female"	"F"	"55-64 years"	"55-64"	"Intentional self-poisoning by and exposure to alcohol"	"X65"			8	43611628	Unreliable
+	"Female"	"F"	"55-64 years"	"55-64"	"Intentional self-poisoning by and exposure to organic solvents and halogenated hydrocarbons and their vapours"	"X66"	"2017"	"2017"	12	21737855	Unreliable
+	"Female"	"F"	"55-64 years"	"55-64"	"Intentional self-poisoning by and exposure to organic solvents and halogenated hydrocarbons and their vapours"	"X66"	"2018"	"2018"	17	21873773	Unreliable
+"Total"	"Female"	"F"	"55-64 years"	"55-64"	"Intentional self-poisoning by and exposure to organic solvents and halogenated hydrocarbons and their vapours"	"X66"			29	43611628	0.1
+	"Female"	"F"	"55-64 years"	"55-64"	"Intentional self-poisoning by and exposure to other gases and vapours"	"X67"	"2017"	"2017"	64	21737855	0.3
+	"Female"	"F"	"55-64 years"	"55-64"	"Intentional self-poisoning by and exposure to other gases and vapours"	"X67"	"2018"	"2018"	54	21873773	0.2
+"Total"	"Female"	"F"	"55-64 years"	"55-64"	"Intentional self-poisoning by and exposure to other gases and vapours"	"X67"			118	43611628	0.3
+	"Female"	"F"	"55-64 years"	"55-64"	"Intentional self-poisoning by and exposure to other and unspecified chemicals and noxious substances"	"X69"	"2017"	"2017"	8	21737855	Unreliable
+	"Female"	"F"	"55-64 years"	"55-64"	"Intentional self-poisoning by and exposure to other and unspecified chemicals and noxious substances"	"X69"	"2018"	"2018"	8	21873773	Unreliable
+"Total"	"Female"	"F"	"55-64 years"	"55-64"	"Intentional self-poisoning by and exposure to other and unspecified chemicals and noxious substances"	"X69"			16	43611628	Unreliable
+	"Female"	"F"	"55-64 years"	"55-64"	"Intentional self-harm by hanging, strangulation and suffocation"	"X70"	"2017"	"2017"	328	21737855	1.5
+	"Female"	"F"	"55-64 years"	"55-64"	"Intentional self-harm by hanging, strangulation and suffocation"	"X70"	"2018"	"2018"	410	21873773	1.9
+"Total"	"Female"	"F"	"55-64 years"	"55-64"	"Intentional self-harm by hanging, strangulation and suffocation"	"X70"			738	43611628	1.7
+	"Female"	"F"	"55-64 years"	"55-64"	"Intentional self-harm by drowning and submersion"	"X71"	"2017"	"2017"	42	21737855	0.2
+	"Female"	"F"	"55-64 years"	"55-64"	"Intentional self-harm by drowning and submersion"	"X71"	"2018"	"2018"	45	21873773	0.2
+"Total"	"Female"	"F"	"55-64 years"	"55-64"	"Intentional self-harm by drowning and submersion"	"X71"			87	43611628	0.2
+	"Female"	"F"	"55-64 years"	"55-64"	"Intentional self-harm by handgun discharge"	"X72"	"2017"	"2017"	196	21737855	0.9
+	"Female"	"F"	"55-64 years"	"55-64"	"Intentional self-harm by handgun discharge"	"X72"	"2018"	"2018"	206	21873773	0.9
+"Total"	"Female"	"F"	"55-64 years"	"55-64"	"Intentional self-harm by handgun discharge"	"X72"			402	43611628	0.9
+	"Female"	"F"	"55-64 years"	"55-64"	"Intentional self-harm by rifle, shotgun and larger firearm discharge"	"X73"	"2017"	"2017"	30	21737855	0.1
+	"Female"	"F"	"55-64 years"	"55-64"	"Intentional self-harm by rifle, shotgun and larger firearm discharge"	"X73"	"2018"	"2018"	34	21873773	0.2
+"Total"	"Female"	"F"	"55-64 years"	"55-64"	"Intentional self-harm by rifle, shotgun and larger firearm discharge"	"X73"			64	43611628	0.1
+	"Female"	"F"	"55-64 years"	"55-64"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"	"2017"	"2017"	419	21737855	1.9
+	"Female"	"F"	"55-64 years"	"55-64"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"	"2018"	"2018"	442	21873773	2.0
+"Total"	"Female"	"F"	"55-64 years"	"55-64"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"			861	43611628	2.0
+	"Female"	"F"	"55-64 years"	"55-64"	"Intentional self-harm by explosive material"	"X75"	"2017"	"2017"	1	21737855	Unreliable
+"Total"	"Female"	"F"	"55-64 years"	"55-64"	"Intentional self-harm by explosive material"	"X75"			1	43611628	Unreliable
+	"Female"	"F"	"55-64 years"	"55-64"	"Intentional self-harm by smoke, fire and flames"	"X76"	"2017"	"2017"	24	21737855	0.1
+	"Female"	"F"	"55-64 years"	"55-64"	"Intentional self-harm by smoke, fire and flames"	"X76"	"2018"	"2018"	15	21873773	Unreliable
+"Total"	"Female"	"F"	"55-64 years"	"55-64"	"Intentional self-harm by smoke, fire and flames"	"X76"			39	43611628	0.1
+	"Female"	"F"	"55-64 years"	"55-64"	"Intentional self-harm by sharp object"	"X78"	"2017"	"2017"	35	21737855	0.2
+	"Female"	"F"	"55-64 years"	"55-64"	"Intentional self-harm by sharp object"	"X78"	"2018"	"2018"	46	21873773	0.2
+"Total"	"Female"	"F"	"55-64 years"	"55-64"	"Intentional self-harm by sharp object"	"X78"			81	43611628	0.2
+	"Female"	"F"	"55-64 years"	"55-64"	"Intentional self-harm by jumping from a high place"	"X80"	"2017"	"2017"	66	21737855	0.3
+	"Female"	"F"	"55-64 years"	"55-64"	"Intentional self-harm by jumping from a high place"	"X80"	"2018"	"2018"	47	21873773	0.2
+"Total"	"Female"	"F"	"55-64 years"	"55-64"	"Intentional self-harm by jumping from a high place"	"X80"			113	43611628	0.3
+	"Female"	"F"	"55-64 years"	"55-64"	"Intentional self-harm by jumping or lying before moving object"	"X81"	"2017"	"2017"	27	21737855	0.1
+	"Female"	"F"	"55-64 years"	"55-64"	"Intentional self-harm by jumping or lying before moving object"	"X81"	"2018"	"2018"	23	21873773	0.1
+"Total"	"Female"	"F"	"55-64 years"	"55-64"	"Intentional self-harm by jumping or lying before moving object"	"X81"			50	43611628	0.1
+	"Female"	"F"	"55-64 years"	"55-64"	"Intentional self-harm by crashing of motor vehicle"	"X82"	"2017"	"2017"	5	21737855	Unreliable
+	"Female"	"F"	"55-64 years"	"55-64"	"Intentional self-harm by crashing of motor vehicle"	"X82"	"2018"	"2018"	7	21873773	Unreliable
+"Total"	"Female"	"F"	"55-64 years"	"55-64"	"Intentional self-harm by crashing of motor vehicle"	"X82"			12	43611628	Unreliable
+	"Female"	"F"	"55-64 years"	"55-64"	"Intentional self-harm by other specified means"	"X83"	"2017"	"2017"	2	21737855	Unreliable
+	"Female"	"F"	"55-64 years"	"55-64"	"Intentional self-harm by other specified means"	"X83"	"2018"	"2018"	5	21873773	Unreliable
+"Total"	"Female"	"F"	"55-64 years"	"55-64"	"Intentional self-harm by other specified means"	"X83"			7	43611628	Unreliable
+	"Female"	"F"	"55-64 years"	"55-64"	"Intentional self-harm by unspecified means"	"X84"	"2017"	"2017"	4	21737855	Unreliable
+	"Female"	"F"	"55-64 years"	"55-64"	"Intentional self-harm by unspecified means"	"X84"	"2018"	"2018"	12	21873773	Unreliable
+"Total"	"Female"	"F"	"55-64 years"	"55-64"	"Intentional self-harm by unspecified means"	"X84"			16	43611628	Unreliable
+"Total"	"Female"	"F"	"55-64 years"	"55-64"					4007	43611628	9.2
+	"Female"	"F"	"65-74 years"	"65-74"	"Intentional self-poisoning by and exposure to nonopioid analgesics, antipyretics and antirheumatics"	"X60"	"2017"	"2017"	10	15806306	Unreliable
+	"Female"	"F"	"65-74 years"	"65-74"	"Intentional self-poisoning by and exposure to nonopioid analgesics, antipyretics and antirheumatics"	"X60"	"2018"	"2018"	8	16246231	Unreliable
+"Total"	"Female"	"F"	"65-74 years"	"65-74"	"Intentional self-poisoning by and exposure to nonopioid analgesics, antipyretics and antirheumatics"	"X60"			18	32052537	Unreliable
+	"Female"	"F"	"65-74 years"	"65-74"	"Intentional self-poisoning by and exposure to antiepileptic, sedative-hypnotic, antiparkinsonism and psychotropic drugs, not elsewhere classified"	"X61"	"2017"	"2017"	68	15806306	0.4
+	"Female"	"F"	"65-74 years"	"65-74"	"Intentional self-poisoning by and exposure to antiepileptic, sedative-hypnotic, antiparkinsonism and psychotropic drugs, not elsewhere classified"	"X61"	"2018"	"2018"	60	16246231	0.4
+"Total"	"Female"	"F"	"65-74 years"	"65-74"	"Intentional self-poisoning by and exposure to antiepileptic, sedative-hypnotic, antiparkinsonism and psychotropic drugs, not elsewhere classified"	"X61"			128	32052537	0.4
+	"Female"	"F"	"65-74 years"	"65-74"	"Intentional self-poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified"	"X62"	"2017"	"2017"	51	15806306	0.3
+	"Female"	"F"	"65-74 years"	"65-74"	"Intentional self-poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified"	"X62"	"2018"	"2018"	51	16246231	0.3
+"Total"	"Female"	"F"	"65-74 years"	"65-74"	"Intentional self-poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified"	"X62"			102	32052537	0.3
+	"Female"	"F"	"65-74 years"	"65-74"	"Intentional self-poisoning by and exposure to other drugs acting on the autonomic nervous system"	"X63"	"2017"	"2017"	5	15806306	Unreliable
+	"Female"	"F"	"65-74 years"	"65-74"	"Intentional self-poisoning by and exposure to other drugs acting on the autonomic nervous system"	"X63"	"2018"	"2018"	1	16246231	Unreliable
+"Total"	"Female"	"F"	"65-74 years"	"65-74"	"Intentional self-poisoning by and exposure to other drugs acting on the autonomic nervous system"	"X63"			6	32052537	Unreliable
+	"Female"	"F"	"65-74 years"	"65-74"	"Intentional self-poisoning by and exposure to other and unspecified drugs, medicaments and biological substances"	"X64"	"2017"	"2017"	228	15806306	1.4
+	"Female"	"F"	"65-74 years"	"65-74"	"Intentional self-poisoning by and exposure to other and unspecified drugs, medicaments and biological substances"	"X64"	"2018"	"2018"	247	16246231	1.5
+"Total"	"Female"	"F"	"65-74 years"	"65-74"	"Intentional self-poisoning by and exposure to other and unspecified drugs, medicaments and biological substances"	"X64"			475	32052537	1.5
+	"Female"	"F"	"65-74 years"	"65-74"	"Intentional self-poisoning by and exposure to alcohol"	"X65"	"2017"	"2017"	2	15806306	Unreliable
+	"Female"	"F"	"65-74 years"	"65-74"	"Intentional self-poisoning by and exposure to alcohol"	"X65"	"2018"	"2018"	1	16246231	Unreliable
+"Total"	"Female"	"F"	"65-74 years"	"65-74"	"Intentional self-poisoning by and exposure to alcohol"	"X65"			3	32052537	Unreliable
+	"Female"	"F"	"65-74 years"	"65-74"	"Intentional self-poisoning by and exposure to organic solvents and halogenated hydrocarbons and their vapours"	"X66"	"2017"	"2017"	7	15806306	Unreliable
+	"Female"	"F"	"65-74 years"	"65-74"	"Intentional self-poisoning by and exposure to organic solvents and halogenated hydrocarbons and their vapours"	"X66"	"2018"	"2018"	3	16246231	Unreliable
+"Total"	"Female"	"F"	"65-74 years"	"65-74"	"Intentional self-poisoning by and exposure to organic solvents and halogenated hydrocarbons and their vapours"	"X66"			10	32052537	Unreliable
+	"Female"	"F"	"65-74 years"	"65-74"	"Intentional self-poisoning by and exposure to other gases and vapours"	"X67"	"2017"	"2017"	26	15806306	0.2
+	"Female"	"F"	"65-74 years"	"65-74"	"Intentional self-poisoning by and exposure to other gases and vapours"	"X67"	"2018"	"2018"	21	16246231	0.1
+"Total"	"Female"	"F"	"65-74 years"	"65-74"	"Intentional self-poisoning by and exposure to other gases and vapours"	"X67"			47	32052537	0.1
+	"Female"	"F"	"65-74 years"	"65-74"	"Intentional self-poisoning by and exposure to pesticides"	"X68"	"2017"	"2017"	1	15806306	Unreliable
+"Total"	"Female"	"F"	"65-74 years"	"65-74"	"Intentional self-poisoning by and exposure to pesticides"	"X68"			1	32052537	Unreliable
+	"Female"	"F"	"65-74 years"	"65-74"	"Intentional self-poisoning by and exposure to other and unspecified chemicals and noxious substances"	"X69"	"2017"	"2017"	7	15806306	Unreliable
+	"Female"	"F"	"65-74 years"	"65-74"	"Intentional self-poisoning by and exposure to other and unspecified chemicals and noxious substances"	"X69"	"2018"	"2018"	7	16246231	Unreliable
+"Total"	"Female"	"F"	"65-74 years"	"65-74"	"Intentional self-poisoning by and exposure to other and unspecified chemicals and noxious substances"	"X69"			14	32052537	Unreliable
+	"Female"	"F"	"65-74 years"	"65-74"	"Intentional self-harm by hanging, strangulation and suffocation"	"X70"	"2017"	"2017"	134	15806306	0.8
+	"Female"	"F"	"65-74 years"	"65-74"	"Intentional self-harm by hanging, strangulation and suffocation"	"X70"	"2018"	"2018"	142	16246231	0.9
+"Total"	"Female"	"F"	"65-74 years"	"65-74"	"Intentional self-harm by hanging, strangulation and suffocation"	"X70"			276	32052537	0.9
+	"Female"	"F"	"65-74 years"	"65-74"	"Intentional self-harm by drowning and submersion"	"X71"	"2017"	"2017"	27	15806306	0.2
+	"Female"	"F"	"65-74 years"	"65-74"	"Intentional self-harm by drowning and submersion"	"X71"	"2018"	"2018"	23	16246231	0.1
+"Total"	"Female"	"F"	"65-74 years"	"65-74"	"Intentional self-harm by drowning and submersion"	"X71"			50	32052537	0.2
+	"Female"	"F"	"65-74 years"	"65-74"	"Intentional self-harm by handgun discharge"	"X72"	"2017"	"2017"	91	15806306	0.6
+	"Female"	"F"	"65-74 years"	"65-74"	"Intentional self-harm by handgun discharge"	"X72"	"2018"	"2018"	111	16246231	0.7
+"Total"	"Female"	"F"	"65-74 years"	"65-74"	"Intentional self-harm by handgun discharge"	"X72"			202	32052537	0.6
+	"Female"	"F"	"65-74 years"	"65-74"	"Intentional self-harm by rifle, shotgun and larger firearm discharge"	"X73"	"2017"	"2017"	12	15806306	Unreliable
+	"Female"	"F"	"65-74 years"	"65-74"	"Intentional self-harm by rifle, shotgun and larger firearm discharge"	"X73"	"2018"	"2018"	8	16246231	Unreliable
+"Total"	"Female"	"F"	"65-74 years"	"65-74"	"Intentional self-harm by rifle, shotgun and larger firearm discharge"	"X73"			20	32052537	0.1
+	"Female"	"F"	"65-74 years"	"65-74"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"	"2017"	"2017"	226	15806306	1.4
+	"Female"	"F"	"65-74 years"	"65-74"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"	"2018"	"2018"	255	16246231	1.6
+"Total"	"Female"	"F"	"65-74 years"	"65-74"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"			481	32052537	1.5
+	"Female"	"F"	"65-74 years"	"65-74"	"Intentional self-harm by smoke, fire and flames"	"X76"	"2017"	"2017"	8	15806306	Unreliable
+	"Female"	"F"	"65-74 years"	"65-74"	"Intentional self-harm by smoke, fire and flames"	"X76"	"2018"	"2018"	4	16246231	Unreliable
+"Total"	"Female"	"F"	"65-74 years"	"65-74"	"Intentional self-harm by smoke, fire and flames"	"X76"			12	32052537	Unreliable
+	"Female"	"F"	"65-74 years"	"65-74"	"Intentional self-harm by sharp object"	"X78"	"2017"	"2017"	28	15806306	0.2
+	"Female"	"F"	"65-74 years"	"65-74"	"Intentional self-harm by sharp object"	"X78"	"2018"	"2018"	24	16246231	0.1
+"Total"	"Female"	"F"	"65-74 years"	"65-74"	"Intentional self-harm by sharp object"	"X78"			52	32052537	0.2
+	"Female"	"F"	"65-74 years"	"65-74"	"Intentional self-harm by jumping from a high place"	"X80"	"2017"	"2017"	35	15806306	0.2
+	"Female"	"F"	"65-74 years"	"65-74"	"Intentional self-harm by jumping from a high place"	"X80"	"2018"	"2018"	33	16246231	0.2
+"Total"	"Female"	"F"	"65-74 years"	"65-74"	"Intentional self-harm by jumping from a high place"	"X80"			68	32052537	0.2
+	"Female"	"F"	"65-74 years"	"65-74"	"Intentional self-harm by jumping or lying before moving object"	"X81"	"2017"	"2017"	10	15806306	Unreliable
+	"Female"	"F"	"65-74 years"	"65-74"	"Intentional self-harm by jumping or lying before moving object"	"X81"	"2018"	"2018"	4	16246231	Unreliable
+"Total"	"Female"	"F"	"65-74 years"	"65-74"	"Intentional self-harm by jumping or lying before moving object"	"X81"			14	32052537	Unreliable
+	"Female"	"F"	"65-74 years"	"65-74"	"Intentional self-harm by crashing of motor vehicle"	"X82"	"2018"	"2018"	3	16246231	Unreliable
+"Total"	"Female"	"F"	"65-74 years"	"65-74"	"Intentional self-harm by crashing of motor vehicle"	"X82"			3	32052537	Unreliable
+	"Female"	"F"	"65-74 years"	"65-74"	"Intentional self-harm by other specified means"	"X83"	"2017"	"2017"	1	15806306	Unreliable
+	"Female"	"F"	"65-74 years"	"65-74"	"Intentional self-harm by other specified means"	"X83"	"2018"	"2018"	2	16246231	Unreliable
+"Total"	"Female"	"F"	"65-74 years"	"65-74"	"Intentional self-harm by other specified means"	"X83"			3	32052537	Unreliable
+	"Female"	"F"	"65-74 years"	"65-74"	"Intentional self-harm by unspecified means"	"X84"	"2017"	"2017"	4	15806306	Unreliable
+	"Female"	"F"	"65-74 years"	"65-74"	"Intentional self-harm by unspecified means"	"X84"	"2018"	"2018"	2	16246231	Unreliable
+"Total"	"Female"	"F"	"65-74 years"	"65-74"	"Intentional self-harm by unspecified means"	"X84"			6	32052537	Unreliable
+"Total"	"Female"	"F"	"65-74 years"	"65-74"					1991	32052537	6.2
+	"Female"	"F"	"75-84 years"	"75-84"	"Intentional self-poisoning by and exposure to nonopioid analgesics, antipyretics and antirheumatics"	"X60"	"2017"	"2017"	3	8298676	Unreliable
+	"Female"	"F"	"75-84 years"	"75-84"	"Intentional self-poisoning by and exposure to nonopioid analgesics, antipyretics and antirheumatics"	"X60"	"2018"	"2018"	2	8659334	Unreliable
+"Total"	"Female"	"F"	"75-84 years"	"75-84"	"Intentional self-poisoning by and exposure to nonopioid analgesics, antipyretics and antirheumatics"	"X60"			5	16958010	Unreliable
+	"Female"	"F"	"75-84 years"	"75-84"	"Intentional self-poisoning by and exposure to antiepileptic, sedative-hypnotic, antiparkinsonism and psychotropic drugs, not elsewhere classified"	"X61"	"2017"	"2017"	14	8298676	Unreliable
+	"Female"	"F"	"75-84 years"	"75-84"	"Intentional self-poisoning by and exposure to antiepileptic, sedative-hypnotic, antiparkinsonism and psychotropic drugs, not elsewhere classified"	"X61"	"2018"	"2018"	24	8659334	0.3
+"Total"	"Female"	"F"	"75-84 years"	"75-84"	"Intentional self-poisoning by and exposure to antiepileptic, sedative-hypnotic, antiparkinsonism and psychotropic drugs, not elsewhere classified"	"X61"			38	16958010	0.2
+	"Female"	"F"	"75-84 years"	"75-84"	"Intentional self-poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified"	"X62"	"2017"	"2017"	12	8298676	Unreliable
+	"Female"	"F"	"75-84 years"	"75-84"	"Intentional self-poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified"	"X62"	"2018"	"2018"	21	8659334	0.2
+"Total"	"Female"	"F"	"75-84 years"	"75-84"	"Intentional self-poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified"	"X62"			33	16958010	0.2
+	"Female"	"F"	"75-84 years"	"75-84"	"Intentional self-poisoning by and exposure to other drugs acting on the autonomic nervous system"	"X63"	"2017"	"2017"	2	8298676	Unreliable
+	"Female"	"F"	"75-84 years"	"75-84"	"Intentional self-poisoning by and exposure to other drugs acting on the autonomic nervous system"	"X63"	"2018"	"2018"	2	8659334	Unreliable
+"Total"	"Female"	"F"	"75-84 years"	"75-84"	"Intentional self-poisoning by and exposure to other drugs acting on the autonomic nervous system"	"X63"			4	16958010	Unreliable
+	"Female"	"F"	"75-84 years"	"75-84"	"Intentional self-poisoning by and exposure to other and unspecified drugs, medicaments and biological substances"	"X64"	"2017"	"2017"	77	8298676	0.9
+	"Female"	"F"	"75-84 years"	"75-84"	"Intentional self-poisoning by and exposure to other and unspecified drugs, medicaments and biological substances"	"X64"	"2018"	"2018"	63	8659334	0.7
+"Total"	"Female"	"F"	"75-84 years"	"75-84"	"Intentional self-poisoning by and exposure to other and unspecified drugs, medicaments and biological substances"	"X64"			140	16958010	0.8
+	"Female"	"F"	"75-84 years"	"75-84"	"Intentional self-poisoning by and exposure to other gases and vapours"	"X67"	"2017"	"2017"	16	8298676	Unreliable
+	"Female"	"F"	"75-84 years"	"75-84"	"Intentional self-poisoning by and exposure to other gases and vapours"	"X67"	"2018"	"2018"	15	8659334	Unreliable
+"Total"	"Female"	"F"	"75-84 years"	"75-84"	"Intentional self-poisoning by and exposure to other gases and vapours"	"X67"			31	16958010	0.2
+	"Female"	"F"	"75-84 years"	"75-84"	"Intentional self-poisoning by and exposure to pesticides"	"X68"	"2018"	"2018"	1	8659334	Unreliable
+"Total"	"Female"	"F"	"75-84 years"	"75-84"	"Intentional self-poisoning by and exposure to pesticides"	"X68"			1	16958010	Unreliable
+	"Female"	"F"	"75-84 years"	"75-84"	"Intentional self-harm by hanging, strangulation and suffocation"	"X70"	"2017"	"2017"	52	8298676	0.6
+	"Female"	"F"	"75-84 years"	"75-84"	"Intentional self-harm by hanging, strangulation and suffocation"	"X70"	"2018"	"2018"	53	8659334	0.6
+"Total"	"Female"	"F"	"75-84 years"	"75-84"	"Intentional self-harm by hanging, strangulation and suffocation"	"X70"			105	16958010	0.6
+	"Female"	"F"	"75-84 years"	"75-84"	"Intentional self-harm by drowning and submersion"	"X71"	"2017"	"2017"	7	8298676	Unreliable
+	"Female"	"F"	"75-84 years"	"75-84"	"Intentional self-harm by drowning and submersion"	"X71"	"2018"	"2018"	6	8659334	Unreliable
+"Total"	"Female"	"F"	"75-84 years"	"75-84"	"Intentional self-harm by drowning and submersion"	"X71"			13	16958010	Unreliable
+	"Female"	"F"	"75-84 years"	"75-84"	"Intentional self-harm by handgun discharge"	"X72"	"2017"	"2017"	46	8298676	0.6
+	"Female"	"F"	"75-84 years"	"75-84"	"Intentional self-harm by handgun discharge"	"X72"	"2018"	"2018"	39	8659334	0.5
+"Total"	"Female"	"F"	"75-84 years"	"75-84"	"Intentional self-harm by handgun discharge"	"X72"			85	16958010	0.5
+	"Female"	"F"	"75-84 years"	"75-84"	"Intentional self-harm by rifle, shotgun and larger firearm discharge"	"X73"	"2017"	"2017"	2	8298676	Unreliable
+	"Female"	"F"	"75-84 years"	"75-84"	"Intentional self-harm by rifle, shotgun and larger firearm discharge"	"X73"	"2018"	"2018"	2	8659334	Unreliable
+"Total"	"Female"	"F"	"75-84 years"	"75-84"	"Intentional self-harm by rifle, shotgun and larger firearm discharge"	"X73"			4	16958010	Unreliable
+	"Female"	"F"	"75-84 years"	"75-84"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"	"2017"	"2017"	91	8298676	1.1
+	"Female"	"F"	"75-84 years"	"75-84"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"	"2018"	"2018"	100	8659334	1.2
+"Total"	"Female"	"F"	"75-84 years"	"75-84"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"			191	16958010	1.1
+	"Female"	"F"	"75-84 years"	"75-84"	"Intentional self-harm by smoke, fire and flames"	"X76"	"2017"	"2017"	1	8298676	Unreliable
+	"Female"	"F"	"75-84 years"	"75-84"	"Intentional self-harm by smoke, fire and flames"	"X76"	"2018"	"2018"	1	8659334	Unreliable
+"Total"	"Female"	"F"	"75-84 years"	"75-84"	"Intentional self-harm by smoke, fire and flames"	"X76"			2	16958010	Unreliable
+	"Female"	"F"	"75-84 years"	"75-84"	"Intentional self-harm by sharp object"	"X78"	"2017"	"2017"	14	8298676	Unreliable
+	"Female"	"F"	"75-84 years"	"75-84"	"Intentional self-harm by sharp object"	"X78"	"2018"	"2018"	6	8659334	Unreliable
+"Total"	"Female"	"F"	"75-84 years"	"75-84"	"Intentional self-harm by sharp object"	"X78"			20	16958010	0.1
+	"Female"	"F"	"75-84 years"	"75-84"	"Intentional self-harm by jumping from a high place"	"X80"	"2017"	"2017"	11	8298676	Unreliable
+	"Female"	"F"	"75-84 years"	"75-84"	"Intentional self-harm by jumping from a high place"	"X80"	"2018"	"2018"	21	8659334	0.2
+"Total"	"Female"	"F"	"75-84 years"	"75-84"	"Intentional self-harm by jumping from a high place"	"X80"			32	16958010	0.2
+	"Female"	"F"	"75-84 years"	"75-84"	"Intentional self-harm by jumping or lying before moving object"	"X81"	"2017"	"2017"	1	8298676	Unreliable
+	"Female"	"F"	"75-84 years"	"75-84"	"Intentional self-harm by jumping or lying before moving object"	"X81"	"2018"	"2018"	3	8659334	Unreliable
+"Total"	"Female"	"F"	"75-84 years"	"75-84"	"Intentional self-harm by jumping or lying before moving object"	"X81"			4	16958010	Unreliable
+	"Female"	"F"	"75-84 years"	"75-84"	"Intentional self-harm by crashing of motor vehicle"	"X82"	"2017"	"2017"	3	8298676	Unreliable
+	"Female"	"F"	"75-84 years"	"75-84"	"Intentional self-harm by crashing of motor vehicle"	"X82"	"2018"	"2018"	1	8659334	Unreliable
+"Total"	"Female"	"F"	"75-84 years"	"75-84"	"Intentional self-harm by crashing of motor vehicle"	"X82"			4	16958010	Unreliable
+	"Female"	"F"	"75-84 years"	"75-84"	"Intentional self-harm by other specified means"	"X83"	"2017"	"2017"	2	8298676	Unreliable
+	"Female"	"F"	"75-84 years"	"75-84"	"Intentional self-harm by other specified means"	"X83"	"2018"	"2018"	1	8659334	Unreliable
+"Total"	"Female"	"F"	"75-84 years"	"75-84"	"Intentional self-harm by other specified means"	"X83"			3	16958010	Unreliable
+	"Female"	"F"	"75-84 years"	"75-84"	"Intentional self-harm by unspecified means"	"X84"	"2017"	"2017"	1	8298676	Unreliable
+	"Female"	"F"	"75-84 years"	"75-84"	"Intentional self-harm by unspecified means"	"X84"	"2018"	"2018"	2	8659334	Unreliable
+"Total"	"Female"	"F"	"75-84 years"	"75-84"	"Intentional self-harm by unspecified means"	"X84"			3	16958010	Unreliable
+"Total"	"Female"	"F"	"75-84 years"	"75-84"					718	16958010	4.2
+	"Female"	"F"	"85+ years"	"85+"	"Intentional self-poisoning by and exposure to nonopioid analgesics, antipyretics and antirheumatics"	"X60"	"2017"	"2017"	7	4189013	Unreliable
+"Total"	"Female"	"F"	"85+ years"	"85+"	"Intentional self-poisoning by and exposure to nonopioid analgesics, antipyretics and antirheumatics"	"X60"			7	8407823	Unreliable
+	"Female"	"F"	"85+ years"	"85+"	"Intentional self-poisoning by and exposure to antiepileptic, sedative-hypnotic, antiparkinsonism and psychotropic drugs, not elsewhere classified"	"X61"	"2017"	"2017"	11	4189013	Unreliable
+	"Female"	"F"	"85+ years"	"85+"	"Intentional self-poisoning by and exposure to antiepileptic, sedative-hypnotic, antiparkinsonism and psychotropic drugs, not elsewhere classified"	"X61"	"2018"	"2018"	14	4218810	Unreliable
+"Total"	"Female"	"F"	"85+ years"	"85+"	"Intentional self-poisoning by and exposure to antiepileptic, sedative-hypnotic, antiparkinsonism and psychotropic drugs, not elsewhere classified"	"X61"			25	8407823	0.3
+	"Female"	"F"	"85+ years"	"85+"	"Intentional self-poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified"	"X62"	"2017"	"2017"	9	4189013	Unreliable
+	"Female"	"F"	"85+ years"	"85+"	"Intentional self-poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified"	"X62"	"2018"	"2018"	9	4218810	Unreliable
+"Total"	"Female"	"F"	"85+ years"	"85+"	"Intentional self-poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified"	"X62"			18	8407823	Unreliable
+	"Female"	"F"	"85+ years"	"85+"	"Intentional self-poisoning by and exposure to other drugs acting on the autonomic nervous system"	"X63"	"2017"	"2017"	2	4189013	Unreliable
+	"Female"	"F"	"85+ years"	"85+"	"Intentional self-poisoning by and exposure to other drugs acting on the autonomic nervous system"	"X63"	"2018"	"2018"	1	4218810	Unreliable
+"Total"	"Female"	"F"	"85+ years"	"85+"	"Intentional self-poisoning by and exposure to other drugs acting on the autonomic nervous system"	"X63"			3	8407823	Unreliable
+	"Female"	"F"	"85+ years"	"85+"	"Intentional self-poisoning by and exposure to other and unspecified drugs, medicaments and biological substances"	"X64"	"2017"	"2017"	25	4189013	0.6
+	"Female"	"F"	"85+ years"	"85+"	"Intentional self-poisoning by and exposure to other and unspecified drugs, medicaments and biological substances"	"X64"	"2018"	"2018"	32	4218810	0.8
+"Total"	"Female"	"F"	"85+ years"	"85+"	"Intentional self-poisoning by and exposure to other and unspecified drugs, medicaments and biological substances"	"X64"			57	8407823	0.7
+	"Female"	"F"	"85+ years"	"85+"	"Intentional self-poisoning by and exposure to alcohol"	"X65"	"2017"	"2017"	1	4189013	Unreliable
+"Total"	"Female"	"F"	"85+ years"	"85+"	"Intentional self-poisoning by and exposure to alcohol"	"X65"			1	8407823	Unreliable
+	"Female"	"F"	"85+ years"	"85+"	"Intentional self-poisoning by and exposure to other gases and vapours"	"X67"	"2017"	"2017"	6	4189013	Unreliable
+	"Female"	"F"	"85+ years"	"85+"	"Intentional self-poisoning by and exposure to other gases and vapours"	"X67"	"2018"	"2018"	11	4218810	Unreliable
+"Total"	"Female"	"F"	"85+ years"	"85+"	"Intentional self-poisoning by and exposure to other gases and vapours"	"X67"			17	8407823	Unreliable
+	"Female"	"F"	"85+ years"	"85+"	"Intentional self-poisoning by and exposure to pesticides"	"X68"	"2018"	"2018"	1	4218810	Unreliable
+"Total"	"Female"	"F"	"85+ years"	"85+"	"Intentional self-poisoning by and exposure to pesticides"	"X68"			1	8407823	Unreliable
+	"Female"	"F"	"85+ years"	"85+"	"Intentional self-poisoning by and exposure to other and unspecified chemicals and noxious substances"	"X69"	"2017"	"2017"	1	4189013	Unreliable
+"Total"	"Female"	"F"	"85+ years"	"85+"	"Intentional self-poisoning by and exposure to other and unspecified chemicals and noxious substances"	"X69"			1	8407823	Unreliable
+	"Female"	"F"	"85+ years"	"85+"	"Intentional self-harm by hanging, strangulation and suffocation"	"X70"	"2017"	"2017"	26	4189013	0.6
+	"Female"	"F"	"85+ years"	"85+"	"Intentional self-harm by hanging, strangulation and suffocation"	"X70"	"2018"	"2018"	27	4218810	0.6
+"Total"	"Female"	"F"	"85+ years"	"85+"	"Intentional self-harm by hanging, strangulation and suffocation"	"X70"			53	8407823	0.6
+	"Female"	"F"	"85+ years"	"85+"	"Intentional self-harm by drowning and submersion"	"X71"	"2017"	"2017"	6	4189013	Unreliable
+	"Female"	"F"	"85+ years"	"85+"	"Intentional self-harm by drowning and submersion"	"X71"	"2018"	"2018"	6	4218810	Unreliable
+"Total"	"Female"	"F"	"85+ years"	"85+"	"Intentional self-harm by drowning and submersion"	"X71"			12	8407823	Unreliable
+	"Female"	"F"	"85+ years"	"85+"	"Intentional self-harm by handgun discharge"	"X72"	"2017"	"2017"	9	4189013	Unreliable
+	"Female"	"F"	"85+ years"	"85+"	"Intentional self-harm by handgun discharge"	"X72"	"2018"	"2018"	15	4218810	Unreliable
+"Total"	"Female"	"F"	"85+ years"	"85+"	"Intentional self-harm by handgun discharge"	"X72"			24	8407823	0.3
+	"Female"	"F"	"85+ years"	"85+"	"Intentional self-harm by rifle, shotgun and larger firearm discharge"	"X73"	"2017"	"2017"	3	4189013	Unreliable
+	"Female"	"F"	"85+ years"	"85+"	"Intentional self-harm by rifle, shotgun and larger firearm discharge"	"X73"	"2018"	"2018"	1	4218810	Unreliable
+"Total"	"Female"	"F"	"85+ years"	"85+"	"Intentional self-harm by rifle, shotgun and larger firearm discharge"	"X73"			4	8407823	Unreliable
+	"Female"	"F"	"85+ years"	"85+"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"	"2017"	"2017"	25	4189013	0.6
+	"Female"	"F"	"85+ years"	"85+"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"	"2018"	"2018"	27	4218810	0.6
+"Total"	"Female"	"F"	"85+ years"	"85+"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"			52	8407823	0.6
+	"Female"	"F"	"85+ years"	"85+"	"Intentional self-harm by sharp object"	"X78"	"2017"	"2017"	4	4189013	Unreliable
+	"Female"	"F"	"85+ years"	"85+"	"Intentional self-harm by sharp object"	"X78"	"2018"	"2018"	3	4218810	Unreliable
+"Total"	"Female"	"F"	"85+ years"	"85+"	"Intentional self-harm by sharp object"	"X78"			7	8407823	Unreliable
+	"Female"	"F"	"85+ years"	"85+"	"Intentional self-harm by jumping from a high place"	"X80"	"2017"	"2017"	7	4189013	Unreliable
+	"Female"	"F"	"85+ years"	"85+"	"Intentional self-harm by jumping from a high place"	"X80"	"2018"	"2018"	4	4218810	Unreliable
+"Total"	"Female"	"F"	"85+ years"	"85+"	"Intentional self-harm by jumping from a high place"	"X80"			11	8407823	Unreliable
+	"Female"	"F"	"85+ years"	"85+"	"Intentional self-harm by jumping or lying before moving object"	"X81"	"2017"	"2017"	1	4189013	Unreliable
+"Total"	"Female"	"F"	"85+ years"	"85+"	"Intentional self-harm by jumping or lying before moving object"	"X81"			1	8407823	Unreliable
+	"Female"	"F"	"85+ years"	"85+"	"Intentional self-harm by other specified means"	"X83"	"2017"	"2017"	1	4189013	Unreliable
+"Total"	"Female"	"F"	"85+ years"	"85+"	"Intentional self-harm by other specified means"	"X83"			1	8407823	Unreliable
+	"Female"	"F"	"85+ years"	"85+"	"Intentional self-harm by unspecified means"	"X84"	"2017"	"2017"	1	4189013	Unreliable
+"Total"	"Female"	"F"	"85+ years"	"85+"	"Intentional self-harm by unspecified means"	"X84"			1	8407823	Unreliable
+"Total"	"Female"	"F"	"85+ years"	"85+"					296	8407823	3.5
+	"Female"	"F"	"Not Stated"	"NS"	"Intentional self-poisoning by and exposure to other and unspecified drugs, medicaments and biological substances"	"X64"	"2017"	"2017"	1	Not Applicable	Not Applicable
+"Total"	"Female"	"F"	"Not Stated"	"NS"	"Intentional self-poisoning by and exposure to other and unspecified drugs, medicaments and biological substances"	"X64"			1	Not Applicable	Not Applicable
+	"Female"	"F"	"Not Stated"	"NS"	"Intentional self-harm by drowning and submersion"	"X71"	"2017"	"2017"	1	Not Applicable	Not Applicable
+"Total"	"Female"	"F"	"Not Stated"	"NS"	"Intentional self-harm by drowning and submersion"	"X71"			1	Not Applicable	Not Applicable
+"Total"	"Female"	"F"	"Not Stated"	"NS"					2	Not Applicable	Not Applicable
+"Total"	"Female"	"F"							20955	331349814	6.3
+	"Male"	"M"	"5-14 years"	"5-14"	"Intentional self-poisoning by and exposure to nonopioid analgesics, antipyretics and antirheumatics"	"X60"	"2017"	"2017"	1	20973213	Unreliable
+"Total"	"Male"	"M"	"5-14 years"	"5-14"	"Intentional self-poisoning by and exposure to nonopioid analgesics, antipyretics and antirheumatics"	"X60"			1	41948043	Unreliable
+	"Male"	"M"	"5-14 years"	"5-14"	"Intentional self-poisoning by and exposure to antiepileptic, sedative-hypnotic, antiparkinsonism and psychotropic drugs, not elsewhere classified"	"X61"	"2017"	"2017"	2	20973213	Unreliable
+"Total"	"Male"	"M"	"5-14 years"	"5-14"	"Intentional self-poisoning by and exposure to antiepileptic, sedative-hypnotic, antiparkinsonism and psychotropic drugs, not elsewhere classified"	"X61"			2	41948043	Unreliable
+	"Male"	"M"	"5-14 years"	"5-14"	"Intentional self-poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified"	"X62"	"2017"	"2017"	3	20973213	Unreliable
+"Total"	"Male"	"M"	"5-14 years"	"5-14"	"Intentional self-poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified"	"X62"			3	41948043	Unreliable
+	"Male"	"M"	"5-14 years"	"5-14"	"Intentional self-poisoning by and exposure to other and unspecified drugs, medicaments and biological substances"	"X64"	"2017"	"2017"	1	20973213	Unreliable
+	"Male"	"M"	"5-14 years"	"5-14"	"Intentional self-poisoning by and exposure to other and unspecified drugs, medicaments and biological substances"	"X64"	"2018"	"2018"	3	20974830	Unreliable
+"Total"	"Male"	"M"	"5-14 years"	"5-14"	"Intentional self-poisoning by and exposure to other and unspecified drugs, medicaments and biological substances"	"X64"			4	41948043	Unreliable
+	"Male"	"M"	"5-14 years"	"5-14"	"Intentional self-poisoning by and exposure to other gases and vapours"	"X67"	"2018"	"2018"	1	20974830	Unreliable
+"Total"	"Male"	"M"	"5-14 years"	"5-14"	"Intentional self-poisoning by and exposure to other gases and vapours"	"X67"			1	41948043	Unreliable
+	"Male"	"M"	"5-14 years"	"5-14"	"Intentional self-harm by hanging, strangulation and suffocation"	"X70"	"2017"	"2017"	183	20973213	0.9
+	"Male"	"M"	"5-14 years"	"5-14"	"Intentional self-harm by hanging, strangulation and suffocation"	"X70"	"2018"	"2018"	223	20974830	1.1
+"Total"	"Male"	"M"	"5-14 years"	"5-14"	"Intentional self-harm by hanging, strangulation and suffocation"	"X70"			406	41948043	1.0
+	"Male"	"M"	"5-14 years"	"5-14"	"Intentional self-harm by drowning and submersion"	"X71"	"2017"	"2017"	1	20973213	Unreliable
+	"Male"	"M"	"5-14 years"	"5-14"	"Intentional self-harm by drowning and submersion"	"X71"	"2018"	"2018"	1	20974830	Unreliable
+"Total"	"Male"	"M"	"5-14 years"	"5-14"	"Intentional self-harm by drowning and submersion"	"X71"			2	41948043	Unreliable
+	"Male"	"M"	"5-14 years"	"5-14"	"Intentional self-harm by handgun discharge"	"X72"	"2017"	"2017"	35	20973213	0.2
+	"Male"	"M"	"5-14 years"	"5-14"	"Intentional self-harm by handgun discharge"	"X72"	"2018"	"2018"	48	20974830	0.2
+"Total"	"Male"	"M"	"5-14 years"	"5-14"	"Intentional self-harm by handgun discharge"	"X72"			83	41948043	0.2
+	"Male"	"M"	"5-14 years"	"5-14"	"Intentional self-harm by rifle, shotgun and larger firearm discharge"	"X73"	"2017"	"2017"	19	20973213	Unreliable
+	"Male"	"M"	"5-14 years"	"5-14"	"Intentional self-harm by rifle, shotgun and larger firearm discharge"	"X73"	"2018"	"2018"	20	20974830	0.1
+"Total"	"Male"	"M"	"5-14 years"	"5-14"	"Intentional self-harm by rifle, shotgun and larger firearm discharge"	"X73"			39	41948043	0.1
+	"Male"	"M"	"5-14 years"	"5-14"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"	"2017"	"2017"	102	20973213	0.5
+	"Male"	"M"	"5-14 years"	"5-14"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"	"2018"	"2018"	91	20974830	0.4
+"Total"	"Male"	"M"	"5-14 years"	"5-14"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"			193	41948043	0.5
+	"Male"	"M"	"5-14 years"	"5-14"	"Intentional self-harm by sharp object"	"X78"	"2017"	"2017"	1	20973213	Unreliable
+"Total"	"Male"	"M"	"5-14 years"	"5-14"	"Intentional self-harm by sharp object"	"X78"			1	41948043	Unreliable
+	"Male"	"M"	"5-14 years"	"5-14"	"Intentional self-harm by jumping from a high place"	"X80"	"2017"	"2017"	2	20973213	Unreliable
+	"Male"	"M"	"5-14 years"	"5-14"	"Intentional self-harm by jumping from a high place"	"X80"	"2018"	"2018"	2	20974830	Unreliable
+"Total"	"Male"	"M"	"5-14 years"	"5-14"	"Intentional self-harm by jumping from a high place"	"X80"			4	41948043	Unreliable
+	"Male"	"M"	"5-14 years"	"5-14"	"Intentional self-harm by jumping or lying before moving object"	"X81"	"2017"	"2017"	2	20973213	Unreliable
+	"Male"	"M"	"5-14 years"	"5-14"	"Intentional self-harm by jumping or lying before moving object"	"X81"	"2018"	"2018"	3	20974830	Unreliable
+"Total"	"Male"	"M"	"5-14 years"	"5-14"	"Intentional self-harm by jumping or lying before moving object"	"X81"			5	41948043	Unreliable
+	"Male"	"M"	"5-14 years"	"5-14"	"Intentional self-harm by crashing of motor vehicle"	"X82"	"2018"	"2018"	1	20974830	Unreliable
+"Total"	"Male"	"M"	"5-14 years"	"5-14"	"Intentional self-harm by crashing of motor vehicle"	"X82"			1	41948043	Unreliable
+	"Male"	"M"	"5-14 years"	"5-14"	"Intentional self-harm by other specified means"	"X83"	"2018"	"2018"	1	20974830	Unreliable
+"Total"	"Male"	"M"	"5-14 years"	"5-14"	"Intentional self-harm by other specified means"	"X83"			1	41948043	Unreliable
+"Total"	"Male"	"M"	"5-14 years"	"5-14"					746	41948043	1.8
+	"Male"	"M"	"15-24 years"	"15-24"	"Intentional self-poisoning by and exposure to nonopioid analgesics, antipyretics and antirheumatics"	"X60"	"2017"	"2017"	6	22149633	Unreliable
+	"Male"	"M"	"15-24 years"	"15-24"	"Intentional self-poisoning by and exposure to nonopioid analgesics, antipyretics and antirheumatics"	"X60"	"2018"	"2018"	3	21976455	Unreliable
+"Total"	"Male"	"M"	"15-24 years"	"15-24"	"Intentional self-poisoning by and exposure to nonopioid analgesics, antipyretics and antirheumatics"	"X60"			9	44126088	Unreliable
+	"Male"	"M"	"15-24 years"	"15-24"	"Intentional self-poisoning by and exposure to antiepileptic, sedative-hypnotic, antiparkinsonism and psychotropic drugs, not elsewhere classified"	"X61"	"2017"	"2017"	33	22149633	0.1
+	"Male"	"M"	"15-24 years"	"15-24"	"Intentional self-poisoning by and exposure to antiepileptic, sedative-hypnotic, antiparkinsonism and psychotropic drugs, not elsewhere classified"	"X61"	"2018"	"2018"	42	21976455	0.2
+"Total"	"Male"	"M"	"15-24 years"	"15-24"	"Intentional self-poisoning by and exposure to antiepileptic, sedative-hypnotic, antiparkinsonism and psychotropic drugs, not elsewhere classified"	"X61"			75	44126088	0.2
+	"Male"	"M"	"15-24 years"	"15-24"	"Intentional self-poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified"	"X62"	"2017"	"2017"	25	22149633	0.1
+	"Male"	"M"	"15-24 years"	"15-24"	"Intentional self-poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified"	"X62"	"2018"	"2018"	19	21976455	Unreliable
+"Total"	"Male"	"M"	"15-24 years"	"15-24"	"Intentional self-poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified"	"X62"			44	44126088	0.1
+	"Male"	"M"	"15-24 years"	"15-24"	"Intentional self-poisoning by and exposure to other drugs acting on the autonomic nervous system"	"X63"	"2017"	"2017"	1	22149633	Unreliable
+	"Male"	"M"	"15-24 years"	"15-24"	"Intentional self-poisoning by and exposure to other drugs acting on the autonomic nervous system"	"X63"	"2018"	"2018"	1	21976455	Unreliable
+"Total"	"Male"	"M"	"15-24 years"	"15-24"	"Intentional self-poisoning by and exposure to other drugs acting on the autonomic nervous system"	"X63"			2	44126088	Unreliable
+	"Male"	"M"	"15-24 years"	"15-24"	"Intentional self-poisoning by and exposure to other and unspecified drugs, medicaments and biological substances"	"X64"	"2017"	"2017"	90	22149633	0.4
+	"Male"	"M"	"15-24 years"	"15-24"	"Intentional self-poisoning by and exposure to other and unspecified drugs, medicaments and biological substances"	"X64"	"2018"	"2018"	83	21976455	0.4
+"Total"	"Male"	"M"	"15-24 years"	"15-24"	"Intentional self-poisoning by and exposure to other and unspecified drugs, medicaments and biological substances"	"X64"			173	44126088	0.4
+	"Male"	"M"	"15-24 years"	"15-24"	"Intentional self-poisoning by and exposure to alcohol"	"X65"	"2018"	"2018"	2	21976455	Unreliable
+"Total"	"Male"	"M"	"15-24 years"	"15-24"	"Intentional self-poisoning by and exposure to alcohol"	"X65"			2	44126088	Unreliable
+	"Male"	"M"	"15-24 years"	"15-24"	"Intentional self-poisoning by and exposure to organic solvents and halogenated hydrocarbons and their vapours"	"X66"	"2017"	"2017"	4	22149633	Unreliable
+	"Male"	"M"	"15-24 years"	"15-24"	"Intentional self-poisoning by and exposure to organic solvents and halogenated hydrocarbons and their vapours"	"X66"	"2018"	"2018"	1	21976455	Unreliable
+"Total"	"Male"	"M"	"15-24 years"	"15-24"	"Intentional self-poisoning by and exposure to organic solvents and halogenated hydrocarbons and their vapours"	"X66"			5	44126088	Unreliable
+	"Male"	"M"	"15-24 years"	"15-24"	"Intentional self-poisoning by and exposure to other gases and vapours"	"X67"	"2017"	"2017"	92	22149633	0.4
+	"Male"	"M"	"15-24 years"	"15-24"	"Intentional self-poisoning by and exposure to other gases and vapours"	"X67"	"2018"	"2018"	86	21976455	0.4
+"Total"	"Male"	"M"	"15-24 years"	"15-24"	"Intentional self-poisoning by and exposure to other gases and vapours"	"X67"			178	44126088	0.4
+	"Male"	"M"	"15-24 years"	"15-24"	"Intentional self-poisoning by and exposure to pesticides"	"X68"	"2017"	"2017"	1	22149633	Unreliable
+"Total"	"Male"	"M"	"15-24 years"	"15-24"	"Intentional self-poisoning by and exposure to pesticides"	"X68"			1	44126088	Unreliable
+	"Male"	"M"	"15-24 years"	"15-24"	"Intentional self-poisoning by and exposure to other and unspecified chemicals and noxious substances"	"X69"	"2017"	"2017"	3	22149633	Unreliable
+	"Male"	"M"	"15-24 years"	"15-24"	"Intentional self-poisoning by and exposure to other and unspecified chemicals and noxious substances"	"X69"	"2018"	"2018"	11	21976455	Unreliable
+"Total"	"Male"	"M"	"15-24 years"	"15-24"	"Intentional self-poisoning by and exposure to other and unspecified chemicals and noxious substances"	"X69"			14	44126088	Unreliable
+	"Male"	"M"	"15-24 years"	"15-24"	"Intentional self-harm by hanging, strangulation and suffocation"	"X70"	"2017"	"2017"	1729	22149633	7.8
+	"Male"	"M"	"15-24 years"	"15-24"	"Intentional self-harm by hanging, strangulation and suffocation"	"X70"	"2018"	"2018"	1686	21976455	7.7
+"Total"	"Male"	"M"	"15-24 years"	"15-24"	"Intentional self-harm by hanging, strangulation and suffocation"	"X70"			3415	44126088	7.7
+	"Male"	"M"	"15-24 years"	"15-24"	"Intentional self-harm by drowning and submersion"	"X71"	"2017"	"2017"	45	22149633	0.2
+	"Male"	"M"	"15-24 years"	"15-24"	"Intentional self-harm by drowning and submersion"	"X71"	"2018"	"2018"	42	21976455	0.2
+"Total"	"Male"	"M"	"15-24 years"	"15-24"	"Intentional self-harm by drowning and submersion"	"X71"			87	44126088	0.2
+	"Male"	"M"	"15-24 years"	"15-24"	"Intentional self-harm by handgun discharge"	"X72"	"2017"	"2017"	637	22149633	2.9
+	"Male"	"M"	"15-24 years"	"15-24"	"Intentional self-harm by handgun discharge"	"X72"	"2018"	"2018"	658	21976455	3.0
+"Total"	"Male"	"M"	"15-24 years"	"15-24"	"Intentional self-harm by handgun discharge"	"X72"			1295	44126088	2.9
+	"Male"	"M"	"15-24 years"	"15-24"	"Intentional self-harm by rifle, shotgun and larger firearm discharge"	"X73"	"2017"	"2017"	446	22149633	2.0
+	"Male"	"M"	"15-24 years"	"15-24"	"Intentional self-harm by rifle, shotgun and larger firearm discharge"	"X73"	"2018"	"2018"	406	21976455	1.8
+"Total"	"Male"	"M"	"15-24 years"	"15-24"	"Intentional self-harm by rifle, shotgun and larger firearm discharge"	"X73"			852	44126088	1.9
+	"Male"	"M"	"15-24 years"	"15-24"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"	"2017"	"2017"	1555	22149633	7.0
+	"Male"	"M"	"15-24 years"	"15-24"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"	"2018"	"2018"	1586	21976455	7.2
+"Total"	"Male"	"M"	"15-24 years"	"15-24"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"			3141	44126088	7.1
+	"Male"	"M"	"15-24 years"	"15-24"	"Intentional self-harm by explosive material"	"X75"	"2017"	"2017"	1	22149633	Unreliable
+	"Male"	"M"	"15-24 years"	"15-24"	"Intentional self-harm by explosive material"	"X75"	"2018"	"2018"	2	21976455	Unreliable
+"Total"	"Male"	"M"	"15-24 years"	"15-24"	"Intentional self-harm by explosive material"	"X75"			3	44126088	Unreliable
+	"Male"	"M"	"15-24 years"	"15-24"	"Intentional self-harm by smoke, fire and flames"	"X76"	"2017"	"2017"	18	22149633	Unreliable
+	"Male"	"M"	"15-24 years"	"15-24"	"Intentional self-harm by smoke, fire and flames"	"X76"	"2018"	"2018"	13	21976455	Unreliable
+"Total"	"Male"	"M"	"15-24 years"	"15-24"	"Intentional self-harm by smoke, fire and flames"	"X76"			31	44126088	0.1
+	"Male"	"M"	"15-24 years"	"15-24"	"Intentional self-harm by sharp object"	"X78"	"2017"	"2017"	31	22149633	0.1
+	"Male"	"M"	"15-24 years"	"15-24"	"Intentional self-harm by sharp object"	"X78"	"2018"	"2018"	30	21976455	0.1
+"Total"	"Male"	"M"	"15-24 years"	"15-24"	"Intentional self-harm by sharp object"	"X78"			61	44126088	0.1
+	"Male"	"M"	"15-24 years"	"15-24"	"Intentional self-harm by jumping from a high place"	"X80"	"2017"	"2017"	154	22149633	0.7
+	"Male"	"M"	"15-24 years"	"15-24"	"Intentional self-harm by jumping from a high place"	"X80"	"2018"	"2018"	161	21976455	0.7
+"Total"	"Male"	"M"	"15-24 years"	"15-24"	"Intentional self-harm by jumping from a high place"	"X80"			315	44126088	0.7
+	"Male"	"M"	"15-24 years"	"15-24"	"Intentional self-harm by jumping or lying before moving object"	"X81"	"2017"	"2017"	103	22149633	0.5
+	"Male"	"M"	"15-24 years"	"15-24"	"Intentional self-harm by jumping or lying before moving object"	"X81"	"2018"	"2018"	99	21976455	0.5
+"Total"	"Male"	"M"	"15-24 years"	"15-24"	"Intentional self-harm by jumping or lying before moving object"	"X81"			202	44126088	0.5
+	"Male"	"M"	"15-24 years"	"15-24"	"Intentional self-harm by crashing of motor vehicle"	"X82"	"2017"	"2017"	30	22149633	0.1
+	"Male"	"M"	"15-24 years"	"15-24"	"Intentional self-harm by crashing of motor vehicle"	"X82"	"2018"	"2018"	43	21976455	0.2
+"Total"	"Male"	"M"	"15-24 years"	"15-24"	"Intentional self-harm by crashing of motor vehicle"	"X82"			73	44126088	0.2
+	"Male"	"M"	"15-24 years"	"15-24"	"Intentional self-harm by other specified means"	"X83"	"2017"	"2017"	8	22149633	Unreliable
+	"Male"	"M"	"15-24 years"	"15-24"	"Intentional self-harm by other specified means"	"X83"	"2018"	"2018"	8	21976455	Unreliable
+"Total"	"Male"	"M"	"15-24 years"	"15-24"	"Intentional self-harm by other specified means"	"X83"			16	44126088	Unreliable
+	"Male"	"M"	"15-24 years"	"15-24"	"Intentional self-harm by unspecified means"	"X84"	"2017"	"2017"	4	22149633	Unreliable
+	"Male"	"M"	"15-24 years"	"15-24"	"Intentional self-harm by unspecified means"	"X84"	"2018"	"2018"	6	21976455	Unreliable
+"Total"	"Male"	"M"	"15-24 years"	"15-24"	"Intentional self-harm by unspecified means"	"X84"			10	44126088	Unreliable
+"Total"	"Male"	"M"	"15-24 years"	"15-24"					10004	44126088	22.7
+	"Male"	"M"	"25-34 years"	"25-34"	"Intentional self-poisoning by and exposure to nonopioid analgesics, antipyretics and antirheumatics"	"X60"	"2017"	"2017"	7	22991361	Unreliable
+	"Male"	"M"	"25-34 years"	"25-34"	"Intentional self-poisoning by and exposure to nonopioid analgesics, antipyretics and antirheumatics"	"X60"	"2018"	"2018"	5	23210709	Unreliable
+"Total"	"Male"	"M"	"25-34 years"	"25-34"	"Intentional self-poisoning by and exposure to nonopioid analgesics, antipyretics and antirheumatics"	"X60"			12	46202070	Unreliable
+	"Male"	"M"	"25-34 years"	"25-34"	"Intentional self-poisoning by and exposure to antiepileptic, sedative-hypnotic, antiparkinsonism and psychotropic drugs, not elsewhere classified"	"X61"	"2017"	"2017"	85	22991361	0.4
+	"Male"	"M"	"25-34 years"	"25-34"	"Intentional self-poisoning by and exposure to antiepileptic, sedative-hypnotic, antiparkinsonism and psychotropic drugs, not elsewhere classified"	"X61"	"2018"	"2018"	78	23210709	0.3
+"Total"	"Male"	"M"	"25-34 years"	"25-34"	"Intentional self-poisoning by and exposure to antiepileptic, sedative-hypnotic, antiparkinsonism and psychotropic drugs, not elsewhere classified"	"X61"			163	46202070	0.4
+	"Male"	"M"	"25-34 years"	"25-34"	"Intentional self-poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified"	"X62"	"2017"	"2017"	39	22991361	0.2
+	"Male"	"M"	"25-34 years"	"25-34"	"Intentional self-poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified"	"X62"	"2018"	"2018"	35	23210709	0.2
+"Total"	"Male"	"M"	"25-34 years"	"25-34"	"Intentional self-poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified"	"X62"			74	46202070	0.2
+	"Male"	"M"	"25-34 years"	"25-34"	"Intentional self-poisoning by and exposure to other drugs acting on the autonomic nervous system"	"X63"	"2017"	"2017"	4	22991361	Unreliable
+"Total"	"Male"	"M"	"25-34 years"	"25-34"	"Intentional self-poisoning by and exposure to other drugs acting on the autonomic nervous system"	"X63"			4	46202070	Unreliable
+	"Male"	"M"	"25-34 years"	"25-34"	"Intentional self-poisoning by and exposure to other and unspecified drugs, medicaments and biological substances"	"X64"	"2017"	"2017"	176	22991361	0.8
+	"Male"	"M"	"25-34 years"	"25-34"	"Intentional self-poisoning by and exposure to other and unspecified drugs, medicaments and biological substances"	"X64"	"2018"	"2018"	161	23210709	0.7
+"Total"	"Male"	"M"	"25-34 years"	"25-34"	"Intentional self-poisoning by and exposure to other and unspecified drugs, medicaments and biological substances"	"X64"			337	46202070	0.7
+	"Male"	"M"	"25-34 years"	"25-34"	"Intentional self-poisoning by and exposure to alcohol"	"X65"	"2017"	"2017"	8	22991361	Unreliable
+	"Male"	"M"	"25-34 years"	"25-34"	"Intentional self-poisoning by and exposure to alcohol"	"X65"	"2018"	"2018"	2	23210709	Unreliable
+"Total"	"Male"	"M"	"25-34 years"	"25-34"	"Intentional self-poisoning by and exposure to alcohol"	"X65"			10	46202070	Unreliable
+	"Male"	"M"	"25-34 years"	"25-34"	"Intentional self-poisoning by and exposure to organic solvents and halogenated hydrocarbons and their vapours"	"X66"	"2017"	"2017"	5	22991361	Unreliable
+	"Male"	"M"	"25-34 years"	"25-34"	"Intentional self-poisoning by and exposure to organic solvents and halogenated hydrocarbons and their vapours"	"X66"	"2018"	"2018"	6	23210709	Unreliable
+"Total"	"Male"	"M"	"25-34 years"	"25-34"	"Intentional self-poisoning by and exposure to organic solvents and halogenated hydrocarbons and their vapours"	"X66"			11	46202070	Unreliable
+	"Male"	"M"	"25-34 years"	"25-34"	"Intentional self-poisoning by and exposure to other gases and vapours"	"X67"	"2017"	"2017"	131	22991361	0.6
+	"Male"	"M"	"25-34 years"	"25-34"	"Intentional self-poisoning by and exposure to other gases and vapours"	"X67"	"2018"	"2018"	143	23210709	0.6
+"Total"	"Male"	"M"	"25-34 years"	"25-34"	"Intentional self-poisoning by and exposure to other gases and vapours"	"X67"			274	46202070	0.6
+	"Male"	"M"	"25-34 years"	"25-34"	"Intentional self-poisoning by and exposure to pesticides"	"X68"	"2017"	"2017"	2	22991361	Unreliable
+	"Male"	"M"	"25-34 years"	"25-34"	"Intentional self-poisoning by and exposure to pesticides"	"X68"	"2018"	"2018"	1	23210709	Unreliable
+"Total"	"Male"	"M"	"25-34 years"	"25-34"	"Intentional self-poisoning by and exposure to pesticides"	"X68"			3	46202070	Unreliable
+	"Male"	"M"	"25-34 years"	"25-34"	"Intentional self-poisoning by and exposure to other and unspecified chemicals and noxious substances"	"X69"	"2017"	"2017"	6	22991361	Unreliable
+	"Male"	"M"	"25-34 years"	"25-34"	"Intentional self-poisoning by and exposure to other and unspecified chemicals and noxious substances"	"X69"	"2018"	"2018"	10	23210709	Unreliable
+"Total"	"Male"	"M"	"25-34 years"	"25-34"	"Intentional self-poisoning by and exposure to other and unspecified chemicals and noxious substances"	"X69"			16	46202070	Unreliable
+	"Male"	"M"	"25-34 years"	"25-34"	"Intentional self-harm by hanging, strangulation and suffocation"	"X70"	"2017"	"2017"	2418	22991361	10.5
+	"Male"	"M"	"25-34 years"	"25-34"	"Intentional self-harm by hanging, strangulation and suffocation"	"X70"	"2018"	"2018"	2417	23210709	10.4
+"Total"	"Male"	"M"	"25-34 years"	"25-34"	"Intentional self-harm by hanging, strangulation and suffocation"	"X70"			4835	46202070	10.5
+	"Male"	"M"	"25-34 years"	"25-34"	"Intentional self-harm by drowning and submersion"	"X71"	"2017"	"2017"	55	22991361	0.2
+	"Male"	"M"	"25-34 years"	"25-34"	"Intentional self-harm by drowning and submersion"	"X71"	"2018"	"2018"	64	23210709	0.3
+"Total"	"Male"	"M"	"25-34 years"	"25-34"	"Intentional self-harm by drowning and submersion"	"X71"			119	46202070	0.3
+	"Male"	"M"	"25-34 years"	"25-34"	"Intentional self-harm by handgun discharge"	"X72"	"2017"	"2017"	794	22991361	3.5
+	"Male"	"M"	"25-34 years"	"25-34"	"Intentional self-harm by handgun discharge"	"X72"	"2018"	"2018"	791	23210709	3.4
+"Total"	"Male"	"M"	"25-34 years"	"25-34"	"Intentional self-harm by handgun discharge"	"X72"			1585	46202070	3.4
+	"Male"	"M"	"25-34 years"	"25-34"	"Intentional self-harm by rifle, shotgun and larger firearm discharge"	"X73"	"2017"	"2017"	339	22991361	1.5
+	"Male"	"M"	"25-34 years"	"25-34"	"Intentional self-harm by rifle, shotgun and larger firearm discharge"	"X73"	"2018"	"2018"	317	23210709	1.4
+"Total"	"Male"	"M"	"25-34 years"	"25-34"	"Intentional self-harm by rifle, shotgun and larger firearm discharge"	"X73"			656	46202070	1.4
+	"Male"	"M"	"25-34 years"	"25-34"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"	"2017"	"2017"	1829	22991361	8.0
+	"Male"	"M"	"25-34 years"	"25-34"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"	"2018"	"2018"	1822	23210709	7.8
+"Total"	"Male"	"M"	"25-34 years"	"25-34"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"			3651	46202070	7.9
+	"Male"	"M"	"25-34 years"	"25-34"	"Intentional self-harm by explosive material"	"X75"	"2018"	"2018"	1	23210709	Unreliable
+"Total"	"Male"	"M"	"25-34 years"	"25-34"	"Intentional self-harm by explosive material"	"X75"			1	46202070	Unreliable
+	"Male"	"M"	"25-34 years"	"25-34"	"Intentional self-harm by smoke, fire and flames"	"X76"	"2017"	"2017"	19	22991361	Unreliable
+	"Male"	"M"	"25-34 years"	"25-34"	"Intentional self-harm by smoke, fire and flames"	"X76"	"2018"	"2018"	26	23210709	0.1
+"Total"	"Male"	"M"	"25-34 years"	"25-34"	"Intentional self-harm by smoke, fire and flames"	"X76"			45	46202070	0.1
+	"Male"	"M"	"25-34 years"	"25-34"	"Intentional self-harm by sharp object"	"X78"	"2017"	"2017"	90	22991361	0.4
+	"Male"	"M"	"25-34 years"	"25-34"	"Intentional self-harm by sharp object"	"X78"	"2018"	"2018"	105	23210709	0.5
+"Total"	"Male"	"M"	"25-34 years"	"25-34"	"Intentional self-harm by sharp object"	"X78"			195	46202070	0.4
+	"Male"	"M"	"25-34 years"	"25-34"	"Intentional self-harm by jumping from a high place"	"X80"	"2017"	"2017"	160	22991361	0.7
+	"Male"	"M"	"25-34 years"	"25-34"	"Intentional self-harm by jumping from a high place"	"X80"	"2018"	"2018"	172	23210709	0.7
+"Total"	"Male"	"M"	"25-34 years"	"25-34"	"Intentional self-harm by jumping from a high place"	"X80"			332	46202070	0.7
+	"Male"	"M"	"25-34 years"	"25-34"	"Intentional self-harm by jumping or lying before moving object"	"X81"	"2017"	"2017"	122	22991361	0.5
+	"Male"	"M"	"25-34 years"	"25-34"	"Intentional self-harm by jumping or lying before moving object"	"X81"	"2018"	"2018"	144	23210709	0.6
+"Total"	"Male"	"M"	"25-34 years"	"25-34"	"Intentional self-harm by jumping or lying before moving object"	"X81"			266	46202070	0.6
+	"Male"	"M"	"25-34 years"	"25-34"	"Intentional self-harm by crashing of motor vehicle"	"X82"	"2017"	"2017"	32	22991361	0.1
+	"Male"	"M"	"25-34 years"	"25-34"	"Intentional self-harm by crashing of motor vehicle"	"X82"	"2018"	"2018"	23	23210709	0.1
+"Total"	"Male"	"M"	"25-34 years"	"25-34"	"Intentional self-harm by crashing of motor vehicle"	"X82"			55	46202070	0.1
+	"Male"	"M"	"25-34 years"	"25-34"	"Intentional self-harm by other specified means"	"X83"	"2017"	"2017"	10	22991361	Unreliable
+	"Male"	"M"	"25-34 years"	"25-34"	"Intentional self-harm by other specified means"	"X83"	"2018"	"2018"	10	23210709	Unreliable
+"Total"	"Male"	"M"	"25-34 years"	"25-34"	"Intentional self-harm by other specified means"	"X83"			20	46202070	0.0
+	"Male"	"M"	"25-34 years"	"25-34"	"Intentional self-harm by unspecified means"	"X84"	"2017"	"2017"	7	22991361	Unreliable
+	"Male"	"M"	"25-34 years"	"25-34"	"Intentional self-harm by unspecified means"	"X84"	"2018"	"2018"	12	23210709	Unreliable
+"Total"	"Male"	"M"	"25-34 years"	"25-34"	"Intentional self-harm by unspecified means"	"X84"			19	46202070	Unreliable
+"Total"	"Male"	"M"	"25-34 years"	"25-34"					12683	46202070	27.5
+	"Male"	"M"	"35-44 years"	"35-44"	"Intentional self-poisoning by and exposure to nonopioid analgesics, antipyretics and antirheumatics"	"X60"	"2017"	"2017"	14	20369100	Unreliable
+	"Male"	"M"	"35-44 years"	"35-44"	"Intentional self-poisoning by and exposure to nonopioid analgesics, antipyretics and antirheumatics"	"X60"	"2018"	"2018"	12	20587600	Unreliable
+"Total"	"Male"	"M"	"35-44 years"	"35-44"	"Intentional self-poisoning by and exposure to nonopioid analgesics, antipyretics and antirheumatics"	"X60"			26	40956700	0.1
+	"Male"	"M"	"35-44 years"	"35-44"	"Intentional self-poisoning by and exposure to antiepileptic, sedative-hypnotic, antiparkinsonism and psychotropic drugs, not elsewhere classified"	"X61"	"2017"	"2017"	92	20369100	0.5
+	"Male"	"M"	"35-44 years"	"35-44"	"Intentional self-poisoning by and exposure to antiepileptic, sedative-hypnotic, antiparkinsonism and psychotropic drugs, not elsewhere classified"	"X61"	"2018"	"2018"	77	20587600	0.4
+"Total"	"Male"	"M"	"35-44 years"	"35-44"	"Intentional self-poisoning by and exposure to antiepileptic, sedative-hypnotic, antiparkinsonism and psychotropic drugs, not elsewhere classified"	"X61"			169	40956700	0.4
+	"Male"	"M"	"35-44 years"	"35-44"	"Intentional self-poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified"	"X62"	"2017"	"2017"	47	20369100	0.2
+	"Male"	"M"	"35-44 years"	"35-44"	"Intentional self-poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified"	"X62"	"2018"	"2018"	41	20587600	0.2
+"Total"	"Male"	"M"	"35-44 years"	"35-44"	"Intentional self-poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified"	"X62"			88	40956700	0.2
+	"Male"	"M"	"35-44 years"	"35-44"	"Intentional self-poisoning by and exposure to other drugs acting on the autonomic nervous system"	"X63"	"2017"	"2017"	4	20369100	Unreliable
+	"Male"	"M"	"35-44 years"	"35-44"	"Intentional self-poisoning by and exposure to other drugs acting on the autonomic nervous system"	"X63"	"2018"	"2018"	7	20587600	Unreliable
+"Total"	"Male"	"M"	"35-44 years"	"35-44"	"Intentional self-poisoning by and exposure to other drugs acting on the autonomic nervous system"	"X63"			11	40956700	Unreliable
+	"Male"	"M"	"35-44 years"	"35-44"	"Intentional self-poisoning by and exposure to other and unspecified drugs, medicaments and biological substances"	"X64"	"2017"	"2017"	230	20369100	1.1
+	"Male"	"M"	"35-44 years"	"35-44"	"Intentional self-poisoning by and exposure to other and unspecified drugs, medicaments and biological substances"	"X64"	"2018"	"2018"	192	20587600	0.9
+"Total"	"Male"	"M"	"35-44 years"	"35-44"	"Intentional self-poisoning by and exposure to other and unspecified drugs, medicaments and biological substances"	"X64"			422	40956700	1.0
+	"Male"	"M"	"35-44 years"	"35-44"	"Intentional self-poisoning by and exposure to alcohol"	"X65"	"2017"	"2017"	4	20369100	Unreliable
+	"Male"	"M"	"35-44 years"	"35-44"	"Intentional self-poisoning by and exposure to alcohol"	"X65"	"2018"	"2018"	7	20587600	Unreliable
+"Total"	"Male"	"M"	"35-44 years"	"35-44"	"Intentional self-poisoning by and exposure to alcohol"	"X65"			11	40956700	Unreliable
+	"Male"	"M"	"35-44 years"	"35-44"	"Intentional self-poisoning by and exposure to organic solvents and halogenated hydrocarbons and their vapours"	"X66"	"2017"	"2017"	16	20369100	Unreliable
+	"Male"	"M"	"35-44 years"	"35-44"	"Intentional self-poisoning by and exposure to organic solvents and halogenated hydrocarbons and their vapours"	"X66"	"2018"	"2018"	6	20587600	Unreliable
+"Total"	"Male"	"M"	"35-44 years"	"35-44"	"Intentional self-poisoning by and exposure to organic solvents and halogenated hydrocarbons and their vapours"	"X66"			22	40956700	0.1
+	"Male"	"M"	"35-44 years"	"35-44"	"Intentional self-poisoning by and exposure to other gases and vapours"	"X67"	"2017"	"2017"	162	20369100	0.8
+	"Male"	"M"	"35-44 years"	"35-44"	"Intentional self-poisoning by and exposure to other gases and vapours"	"X67"	"2018"	"2018"	143	20587600	0.7
+"Total"	"Male"	"M"	"35-44 years"	"35-44"	"Intentional self-poisoning by and exposure to other gases and vapours"	"X67"			305	40956700	0.7
+	"Male"	"M"	"35-44 years"	"35-44"	"Intentional self-poisoning by and exposure to pesticides"	"X68"	"2017"	"2017"	3	20369100	Unreliable
+	"Male"	"M"	"35-44 years"	"35-44"	"Intentional self-poisoning by and exposure to pesticides"	"X68"	"2018"	"2018"	1	20587600	Unreliable
+"Total"	"Male"	"M"	"35-44 years"	"35-44"	"Intentional self-poisoning by and exposure to pesticides"	"X68"			4	40956700	Unreliable
+	"Male"	"M"	"35-44 years"	"35-44"	"Intentional self-poisoning by and exposure to other and unspecified chemicals and noxious substances"	"X69"	"2017"	"2017"	7	20369100	Unreliable
+	"Male"	"M"	"35-44 years"	"35-44"	"Intentional self-poisoning by and exposure to other and unspecified chemicals and noxious substances"	"X69"	"2018"	"2018"	7	20587600	Unreliable
+"Total"	"Male"	"M"	"35-44 years"	"35-44"	"Intentional self-poisoning by and exposure to other and unspecified chemicals and noxious substances"	"X69"			14	40956700	Unreliable
+	"Male"	"M"	"35-44 years"	"35-44"	"Intentional self-harm by hanging, strangulation and suffocation"	"X70"	"2017"	"2017"	1998	20369100	9.8
+	"Male"	"M"	"35-44 years"	"35-44"	"Intentional self-harm by hanging, strangulation and suffocation"	"X70"	"2018"	"2018"	2126	20587600	10.3
+"Total"	"Male"	"M"	"35-44 years"	"35-44"	"Intentional self-harm by hanging, strangulation and suffocation"	"X70"			4124	40956700	10.1
+	"Male"	"M"	"35-44 years"	"35-44"	"Intentional self-harm by drowning and submersion"	"X71"	"2017"	"2017"	43	20369100	0.2
+	"Male"	"M"	"35-44 years"	"35-44"	"Intentional self-harm by drowning and submersion"	"X71"	"2018"	"2018"	60	20587600	0.3
+"Total"	"Male"	"M"	"35-44 years"	"35-44"	"Intentional self-harm by drowning and submersion"	"X71"			103	40956700	0.3
+	"Male"	"M"	"35-44 years"	"35-44"	"Intentional self-harm by handgun discharge"	"X72"	"2017"	"2017"	647	20369100	3.2
+	"Male"	"M"	"35-44 years"	"35-44"	"Intentional self-harm by handgun discharge"	"X72"	"2018"	"2018"	698	20587600	3.4
+"Total"	"Male"	"M"	"35-44 years"	"35-44"	"Intentional self-harm by handgun discharge"	"X72"			1345	40956700	3.3
+	"Male"	"M"	"35-44 years"	"35-44"	"Intentional self-harm by rifle, shotgun and larger firearm discharge"	"X73"	"2017"	"2017"	338	20369100	1.7
+	"Male"	"M"	"35-44 years"	"35-44"	"Intentional self-harm by rifle, shotgun and larger firearm discharge"	"X73"	"2018"	"2018"	310	20587600	1.5
+"Total"	"Male"	"M"	"35-44 years"	"35-44"	"Intentional self-harm by rifle, shotgun and larger firearm discharge"	"X73"			648	40956700	1.6
+	"Male"	"M"	"35-44 years"	"35-44"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"	"2017"	"2017"	1605	20369100	7.9
+	"Male"	"M"	"35-44 years"	"35-44"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"	"2018"	"2018"	1695	20587600	8.2
+"Total"	"Male"	"M"	"35-44 years"	"35-44"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"			3300	40956700	8.1
+	"Male"	"M"	"35-44 years"	"35-44"	"Intentional self-harm by smoke, fire and flames"	"X76"	"2017"	"2017"	18	20369100	Unreliable
+	"Male"	"M"	"35-44 years"	"35-44"	"Intentional self-harm by smoke, fire and flames"	"X76"	"2018"	"2018"	26	20587600	0.1
+"Total"	"Male"	"M"	"35-44 years"	"35-44"	"Intentional self-harm by smoke, fire and flames"	"X76"			44	40956700	0.1
+	"Male"	"M"	"35-44 years"	"35-44"	"Intentional self-harm by sharp object"	"X78"	"2017"	"2017"	101	20369100	0.5
+	"Male"	"M"	"35-44 years"	"35-44"	"Intentional self-harm by sharp object"	"X78"	"2018"	"2018"	110	20587600	0.5
+"Total"	"Male"	"M"	"35-44 years"	"35-44"	"Intentional self-harm by sharp object"	"X78"			211	40956700	0.5
+	"Male"	"M"	"35-44 years"	"35-44"	"Intentional self-harm by blunt object"	"X79"	"2017"	"2017"	1	20369100	Unreliable
+"Total"	"Male"	"M"	"35-44 years"	"35-44"	"Intentional self-harm by blunt object"	"X79"			1	40956700	Unreliable
+	"Male"	"M"	"35-44 years"	"35-44"	"Intentional self-harm by jumping from a high place"	"X80"	"2017"	"2017"	120	20369100	0.6
+	"Male"	"M"	"35-44 years"	"35-44"	"Intentional self-harm by jumping from a high place"	"X80"	"2018"	"2018"	143	20587600	0.7
+"Total"	"Male"	"M"	"35-44 years"	"35-44"	"Intentional self-harm by jumping from a high place"	"X80"			263	40956700	0.6
+	"Male"	"M"	"35-44 years"	"35-44"	"Intentional self-harm by jumping or lying before moving object"	"X81"	"2017"	"2017"	89	20369100	0.4
+	"Male"	"M"	"35-44 years"	"35-44"	"Intentional self-harm by jumping or lying before moving object"	"X81"	"2018"	"2018"	81	20587600	0.4
+"Total"	"Male"	"M"	"35-44 years"	"35-44"	"Intentional self-harm by jumping or lying before moving object"	"X81"			170	40956700	0.4
+	"Male"	"M"	"35-44 years"	"35-44"	"Intentional self-harm by crashing of motor vehicle"	"X82"	"2017"	"2017"	23	20369100	0.1
+	"Male"	"M"	"35-44 years"	"35-44"	"Intentional self-harm by crashing of motor vehicle"	"X82"	"2018"	"2018"	20	20587600	0.1
+"Total"	"Male"	"M"	"35-44 years"	"35-44"	"Intentional self-harm by crashing of motor vehicle"	"X82"			43	40956700	0.1
+	"Male"	"M"	"35-44 years"	"35-44"	"Intentional self-harm by other specified means"	"X83"	"2017"	"2017"	9	20369100	Unreliable
+	"Male"	"M"	"35-44 years"	"35-44"	"Intentional self-harm by other specified means"	"X83"	"2018"	"2018"	5	20587600	Unreliable
+"Total"	"Male"	"M"	"35-44 years"	"35-44"	"Intentional self-harm by other specified means"	"X83"			14	40956700	Unreliable
+	"Male"	"M"	"35-44 years"	"35-44"	"Intentional self-harm by unspecified means"	"X84"	"2017"	"2017"	15	20369100	Unreliable
+	"Male"	"M"	"35-44 years"	"35-44"	"Intentional self-harm by unspecified means"	"X84"	"2018"	"2018"	10	20587600	Unreliable
+"Total"	"Male"	"M"	"35-44 years"	"35-44"	"Intentional self-harm by unspecified means"	"X84"			25	40956700	0.1
+"Total"	"Male"	"M"	"35-44 years"	"35-44"					11363	40956700	27.7
+	"Male"	"M"	"45-54 years"	"45-54"	"Intentional self-poisoning by and exposure to nonopioid analgesics, antipyretics and antirheumatics"	"X60"	"2017"	"2017"	11	20906357	Unreliable
+	"Male"	"M"	"45-54 years"	"45-54"	"Intentional self-poisoning by and exposure to nonopioid analgesics, antipyretics and antirheumatics"	"X60"	"2018"	"2018"	8	20541202	Unreliable
+"Total"	"Male"	"M"	"45-54 years"	"45-54"	"Intentional self-poisoning by and exposure to nonopioid analgesics, antipyretics and antirheumatics"	"X60"			19	41447559	Unreliable
+	"Male"	"M"	"45-54 years"	"45-54"	"Intentional self-poisoning by and exposure to antiepileptic, sedative-hypnotic, antiparkinsonism and psychotropic drugs, not elsewhere classified"	"X61"	"2017"	"2017"	116	20906357	0.6
+	"Male"	"M"	"45-54 years"	"45-54"	"Intentional self-poisoning by and exposure to antiepileptic, sedative-hypnotic, antiparkinsonism and psychotropic drugs, not elsewhere classified"	"X61"	"2018"	"2018"	106	20541202	0.5
+"Total"	"Male"	"M"	"45-54 years"	"45-54"	"Intentional self-poisoning by and exposure to antiepileptic, sedative-hypnotic, antiparkinsonism and psychotropic drugs, not elsewhere classified"	"X61"			222	41447559	0.5
+	"Male"	"M"	"45-54 years"	"45-54"	"Intentional self-poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified"	"X62"	"2017"	"2017"	70	20906357	0.3
+	"Male"	"M"	"45-54 years"	"45-54"	"Intentional self-poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified"	"X62"	"2018"	"2018"	61	20541202	0.3
+"Total"	"Male"	"M"	"45-54 years"	"45-54"	"Intentional self-poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified"	"X62"			131	41447559	0.3
+	"Male"	"M"	"45-54 years"	"45-54"	"Intentional self-poisoning by and exposure to other drugs acting on the autonomic nervous system"	"X63"	"2017"	"2017"	11	20906357	Unreliable
+	"Male"	"M"	"45-54 years"	"45-54"	"Intentional self-poisoning by and exposure to other drugs acting on the autonomic nervous system"	"X63"	"2018"	"2018"	5	20541202	Unreliable
+"Total"	"Male"	"M"	"45-54 years"	"45-54"	"Intentional self-poisoning by and exposure to other drugs acting on the autonomic nervous system"	"X63"			16	41447559	Unreliable
+	"Male"	"M"	"45-54 years"	"45-54"	"Intentional self-poisoning by and exposure to other and unspecified drugs, medicaments and biological substances"	"X64"	"2017"	"2017"	340	20906357	1.6
+	"Male"	"M"	"45-54 years"	"45-54"	"Intentional self-poisoning by and exposure to other and unspecified drugs, medicaments and biological substances"	"X64"	"2018"	"2018"	285	20541202	1.4
+"Total"	"Male"	"M"	"45-54 years"	"45-54"	"Intentional self-poisoning by and exposure to other and unspecified drugs, medicaments and biological substances"	"X64"			625	41447559	1.5
+	"Male"	"M"	"45-54 years"	"45-54"	"Intentional self-poisoning by and exposure to alcohol"	"X65"	"2017"	"2017"	1	20906357	Unreliable
+	"Male"	"M"	"45-54 years"	"45-54"	"Intentional self-poisoning by and exposure to alcohol"	"X65"	"2018"	"2018"	3	20541202	Unreliable
+"Total"	"Male"	"M"	"45-54 years"	"45-54"	"Intentional self-poisoning by and exposure to alcohol"	"X65"			4	41447559	Unreliable
+	"Male"	"M"	"45-54 years"	"45-54"	"Intentional self-poisoning by and exposure to organic solvents and halogenated hydrocarbons and their vapours"	"X66"	"2017"	"2017"	22	20906357	0.1
+	"Male"	"M"	"45-54 years"	"45-54"	"Intentional self-poisoning by and exposure to organic solvents and halogenated hydrocarbons and their vapours"	"X66"	"2018"	"2018"	7	20541202	Unreliable
+"Total"	"Male"	"M"	"45-54 years"	"45-54"	"Intentional self-poisoning by and exposure to organic solvents and halogenated hydrocarbons and their vapours"	"X66"			29	41447559	0.1
+	"Male"	"M"	"45-54 years"	"45-54"	"Intentional self-poisoning by and exposure to other gases and vapours"	"X67"	"2017"	"2017"	200	20906357	1.0
+	"Male"	"M"	"45-54 years"	"45-54"	"Intentional self-poisoning by and exposure to other gases and vapours"	"X67"	"2018"	"2018"	203	20541202	1.0
+"Total"	"Male"	"M"	"45-54 years"	"45-54"	"Intentional self-poisoning by and exposure to other gases and vapours"	"X67"			403	41447559	1.0
+	"Male"	"M"	"45-54 years"	"45-54"	"Intentional self-poisoning by and exposure to pesticides"	"X68"	"2018"	"2018"	2	20541202	Unreliable
+"Total"	"Male"	"M"	"45-54 years"	"45-54"	"Intentional self-poisoning by and exposure to pesticides"	"X68"			2	41447559	Unreliable
+	"Male"	"M"	"45-54 years"	"45-54"	"Intentional self-poisoning by and exposure to other and unspecified chemicals and noxious substances"	"X69"	"2017"	"2017"	2	20906357	Unreliable
+	"Male"	"M"	"45-54 years"	"45-54"	"Intentional self-poisoning by and exposure to other and unspecified chemicals and noxious substances"	"X69"	"2018"	"2018"	17	20541202	Unreliable
+"Total"	"Male"	"M"	"45-54 years"	"45-54"	"Intentional self-poisoning by and exposure to other and unspecified chemicals and noxious substances"	"X69"			19	41447559	Unreliable
+	"Male"	"M"	"45-54 years"	"45-54"	"Intentional self-harm by hanging, strangulation and suffocation"	"X70"	"2017"	"2017"	1836	20906357	8.8
+	"Male"	"M"	"45-54 years"	"45-54"	"Intentional self-harm by hanging, strangulation and suffocation"	"X70"	"2018"	"2018"	1909	20541202	9.3
+"Total"	"Male"	"M"	"45-54 years"	"45-54"	"Intentional self-harm by hanging, strangulation and suffocation"	"X70"			3745	41447559	9.0
+	"Male"	"M"	"45-54 years"	"45-54"	"Intentional self-harm by drowning and submersion"	"X71"	"2017"	"2017"	59	20906357	0.3
+	"Male"	"M"	"45-54 years"	"45-54"	"Intentional self-harm by drowning and submersion"	"X71"	"2018"	"2018"	50	20541202	0.2
+"Total"	"Male"	"M"	"45-54 years"	"45-54"	"Intentional self-harm by drowning and submersion"	"X71"			109	41447559	0.3
+	"Male"	"M"	"45-54 years"	"45-54"	"Intentional self-harm by handgun discharge"	"X72"	"2017"	"2017"	745	20906357	3.6
+	"Male"	"M"	"45-54 years"	"45-54"	"Intentional self-harm by handgun discharge"	"X72"	"2018"	"2018"	799	20541202	3.9
+"Total"	"Male"	"M"	"45-54 years"	"45-54"	"Intentional self-harm by handgun discharge"	"X72"			1544	41447559	3.7
+	"Male"	"M"	"45-54 years"	"45-54"	"Intentional self-harm by rifle, shotgun and larger firearm discharge"	"X73"	"2017"	"2017"	493	20906357	2.4
+	"Male"	"M"	"45-54 years"	"45-54"	"Intentional self-harm by rifle, shotgun and larger firearm discharge"	"X73"	"2018"	"2018"	428	20541202	2.1
+"Total"	"Male"	"M"	"45-54 years"	"45-54"	"Intentional self-harm by rifle, shotgun and larger firearm discharge"	"X73"			921	41447559	2.2
+	"Male"	"M"	"45-54 years"	"45-54"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"	"2017"	"2017"	1965	20906357	9.4
+	"Male"	"M"	"45-54 years"	"45-54"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"	"2018"	"2018"	1876	20541202	9.1
+"Total"	"Male"	"M"	"45-54 years"	"45-54"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"			3841	41447559	9.3
+	"Male"	"M"	"45-54 years"	"45-54"	"Intentional self-harm by explosive material"	"X75"	"2018"	"2018"	1	20541202	Unreliable
+"Total"	"Male"	"M"	"45-54 years"	"45-54"	"Intentional self-harm by explosive material"	"X75"			1	41447559	Unreliable
+	"Male"	"M"	"45-54 years"	"45-54"	"Intentional self-harm by smoke, fire and flames"	"X76"	"2017"	"2017"	22	20906357	0.1
+	"Male"	"M"	"45-54 years"	"45-54"	"Intentional self-harm by smoke, fire and flames"	"X76"	"2018"	"2018"	31	20541202	0.2
+"Total"	"Male"	"M"	"45-54 years"	"45-54"	"Intentional self-harm by smoke, fire and flames"	"X76"			53	41447559	0.1
+	"Male"	"M"	"45-54 years"	"45-54"	"Intentional self-harm by sharp object"	"X78"	"2017"	"2017"	168	20906357	0.8
+	"Male"	"M"	"45-54 years"	"45-54"	"Intentional self-harm by sharp object"	"X78"	"2018"	"2018"	152	20541202	0.7
+"Total"	"Male"	"M"	"45-54 years"	"45-54"	"Intentional self-harm by sharp object"	"X78"			320	41447559	0.8
+	"Male"	"M"	"45-54 years"	"45-54"	"Intentional self-harm by jumping from a high place"	"X80"	"2017"	"2017"	128	20906357	0.6
+	"Male"	"M"	"45-54 years"	"45-54"	"Intentional self-harm by jumping from a high place"	"X80"	"2018"	"2018"	130	20541202	0.6
+"Total"	"Male"	"M"	"45-54 years"	"45-54"	"Intentional self-harm by jumping from a high place"	"X80"			258	41447559	0.6
+	"Male"	"M"	"45-54 years"	"45-54"	"Intentional self-harm by jumping or lying before moving object"	"X81"	"2017"	"2017"	85	20906357	0.4
+	"Male"	"M"	"45-54 years"	"45-54"	"Intentional self-harm by jumping or lying before moving object"	"X81"	"2018"	"2018"	79	20541202	0.4
+"Total"	"Male"	"M"	"45-54 years"	"45-54"	"Intentional self-harm by jumping or lying before moving object"	"X81"			164	41447559	0.4
+	"Male"	"M"	"45-54 years"	"45-54"	"Intentional self-harm by crashing of motor vehicle"	"X82"	"2017"	"2017"	23	20906357	0.1
+	"Male"	"M"	"45-54 years"	"45-54"	"Intentional self-harm by crashing of motor vehicle"	"X82"	"2018"	"2018"	25	20541202	0.1
+"Total"	"Male"	"M"	"45-54 years"	"45-54"	"Intentional self-harm by crashing of motor vehicle"	"X82"			48	41447559	0.1
+	"Male"	"M"	"45-54 years"	"45-54"	"Intentional self-harm by other specified means"	"X83"	"2017"	"2017"	10	20906357	Unreliable
+	"Male"	"M"	"45-54 years"	"45-54"	"Intentional self-harm by other specified means"	"X83"	"2018"	"2018"	7	20541202	Unreliable
+"Total"	"Male"	"M"	"45-54 years"	"45-54"	"Intentional self-harm by other specified means"	"X83"			17	41447559	Unreliable
+	"Male"	"M"	"45-54 years"	"45-54"	"Intentional self-harm by unspecified means"	"X84"	"2017"	"2017"	14	20906357	Unreliable
+	"Male"	"M"	"45-54 years"	"45-54"	"Intentional self-harm by unspecified means"	"X84"	"2018"	"2018"	12	20541202	Unreliable
+"Total"	"Male"	"M"	"45-54 years"	"45-54"	"Intentional self-harm by unspecified means"	"X84"			26	41447559	0.1
+"Total"	"Male"	"M"	"45-54 years"	"45-54"					12517	41447559	30.2
+	"Male"	"M"	"55-64 years"	"55-64"	"Intentional self-poisoning by and exposure to nonopioid analgesics, antipyretics and antirheumatics"	"X60"	"2017"	"2017"	11	20257803	Unreliable
+	"Male"	"M"	"55-64 years"	"55-64"	"Intentional self-poisoning by and exposure to nonopioid analgesics, antipyretics and antirheumatics"	"X60"	"2018"	"2018"	6	20398863	Unreliable
+"Total"	"Male"	"M"	"55-64 years"	"55-64"	"Intentional self-poisoning by and exposure to nonopioid analgesics, antipyretics and antirheumatics"	"X60"			17	40656666	Unreliable
+	"Male"	"M"	"55-64 years"	"55-64"	"Intentional self-poisoning by and exposure to antiepileptic, sedative-hypnotic, antiparkinsonism and psychotropic drugs, not elsewhere classified"	"X61"	"2017"	"2017"	88	20257803	0.4
+	"Male"	"M"	"55-64 years"	"55-64"	"Intentional self-poisoning by and exposure to antiepileptic, sedative-hypnotic, antiparkinsonism and psychotropic drugs, not elsewhere classified"	"X61"	"2018"	"2018"	99	20398863	0.5
+"Total"	"Male"	"M"	"55-64 years"	"55-64"	"Intentional self-poisoning by and exposure to antiepileptic, sedative-hypnotic, antiparkinsonism and psychotropic drugs, not elsewhere classified"	"X61"			187	40656666	0.5
+	"Male"	"M"	"55-64 years"	"55-64"	"Intentional self-poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified"	"X62"	"2017"	"2017"	72	20257803	0.4
+	"Male"	"M"	"55-64 years"	"55-64"	"Intentional self-poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified"	"X62"	"2018"	"2018"	70	20398863	0.3
+"Total"	"Male"	"M"	"55-64 years"	"55-64"	"Intentional self-poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified"	"X62"			142	40656666	0.3
+	"Male"	"M"	"55-64 years"	"55-64"	"Intentional self-poisoning by and exposure to other drugs acting on the autonomic nervous system"	"X63"	"2017"	"2017"	7	20257803	Unreliable
+	"Male"	"M"	"55-64 years"	"55-64"	"Intentional self-poisoning by and exposure to other drugs acting on the autonomic nervous system"	"X63"	"2018"	"2018"	8	20398863	Unreliable
+"Total"	"Male"	"M"	"55-64 years"	"55-64"	"Intentional self-poisoning by and exposure to other drugs acting on the autonomic nervous system"	"X63"			15	40656666	Unreliable
+	"Male"	"M"	"55-64 years"	"55-64"	"Intentional self-poisoning by and exposure to other and unspecified drugs, medicaments and biological substances"	"X64"	"2017"	"2017"	311	20257803	1.5
+	"Male"	"M"	"55-64 years"	"55-64"	"Intentional self-poisoning by and exposure to other and unspecified drugs, medicaments and biological substances"	"X64"	"2018"	"2018"	291	20398863	1.4
+"Total"	"Male"	"M"	"55-64 years"	"55-64"	"Intentional self-poisoning by and exposure to other and unspecified drugs, medicaments and biological substances"	"X64"			602	40656666	1.5
+	"Male"	"M"	"55-64 years"	"55-64"	"Intentional self-poisoning by and exposure to alcohol"	"X65"	"2017"	"2017"	9	20257803	Unreliable
+	"Male"	"M"	"55-64 years"	"55-64"	"Intentional self-poisoning by and exposure to alcohol"	"X65"	"2018"	"2018"	1	20398863	Unreliable
+"Total"	"Male"	"M"	"55-64 years"	"55-64"	"Intentional self-poisoning by and exposure to alcohol"	"X65"			10	40656666	Unreliable
+	"Male"	"M"	"55-64 years"	"55-64"	"Intentional self-poisoning by and exposure to organic solvents and halogenated hydrocarbons and their vapours"	"X66"	"2017"	"2017"	16	20257803	Unreliable
+	"Male"	"M"	"55-64 years"	"55-64"	"Intentional self-poisoning by and exposure to organic solvents and halogenated hydrocarbons and their vapours"	"X66"	"2018"	"2018"	16	20398863	Unreliable
+"Total"	"Male"	"M"	"55-64 years"	"55-64"	"Intentional self-poisoning by and exposure to organic solvents and halogenated hydrocarbons and their vapours"	"X66"			32	40656666	0.1
+	"Male"	"M"	"55-64 years"	"55-64"	"Intentional self-poisoning by and exposure to other gases and vapours"	"X67"	"2017"	"2017"	173	20257803	0.9
+	"Male"	"M"	"55-64 years"	"55-64"	"Intentional self-poisoning by and exposure to other gases and vapours"	"X67"	"2018"	"2018"	215	20398863	1.1
+"Total"	"Male"	"M"	"55-64 years"	"55-64"	"Intentional self-poisoning by and exposure to other gases and vapours"	"X67"			388	40656666	1.0
+	"Male"	"M"	"55-64 years"	"55-64"	"Intentional self-poisoning by and exposure to pesticides"	"X68"	"2017"	"2017"	1	20257803	Unreliable
+	"Male"	"M"	"55-64 years"	"55-64"	"Intentional self-poisoning by and exposure to pesticides"	"X68"	"2018"	"2018"	2	20398863	Unreliable
+"Total"	"Male"	"M"	"55-64 years"	"55-64"	"Intentional self-poisoning by and exposure to pesticides"	"X68"			3	40656666	Unreliable
+	"Male"	"M"	"55-64 years"	"55-64"	"Intentional self-poisoning by and exposure to other and unspecified chemicals and noxious substances"	"X69"	"2017"	"2017"	10	20257803	Unreliable
+	"Male"	"M"	"55-64 years"	"55-64"	"Intentional self-poisoning by and exposure to other and unspecified chemicals and noxious substances"	"X69"	"2018"	"2018"	8	20398863	Unreliable
+"Total"	"Male"	"M"	"55-64 years"	"55-64"	"Intentional self-poisoning by and exposure to other and unspecified chemicals and noxious substances"	"X69"			18	40656666	Unreliable
+	"Male"	"M"	"55-64 years"	"55-64"	"Intentional self-harm by hanging, strangulation and suffocation"	"X70"	"2017"	"2017"	1303	20257803	6.4
+	"Male"	"M"	"55-64 years"	"55-64"	"Intentional self-harm by hanging, strangulation and suffocation"	"X70"	"2018"	"2018"	1524	20398863	7.5
+"Total"	"Male"	"M"	"55-64 years"	"55-64"	"Intentional self-harm by hanging, strangulation and suffocation"	"X70"			2827	40656666	7.0
+	"Male"	"M"	"55-64 years"	"55-64"	"Intentional self-harm by drowning and submersion"	"X71"	"2017"	"2017"	43	20257803	0.2
+	"Male"	"M"	"55-64 years"	"55-64"	"Intentional self-harm by drowning and submersion"	"X71"	"2018"	"2018"	50	20398863	0.2
+"Total"	"Male"	"M"	"55-64 years"	"55-64"	"Intentional self-harm by drowning and submersion"	"X71"			93	40656666	0.2
+	"Male"	"M"	"55-64 years"	"55-64"	"Intentional self-harm by handgun discharge"	"X72"	"2017"	"2017"	888	20257803	4.4
+	"Male"	"M"	"55-64 years"	"55-64"	"Intentional self-harm by handgun discharge"	"X72"	"2018"	"2018"	900	20398863	4.4
+"Total"	"Male"	"M"	"55-64 years"	"55-64"	"Intentional self-harm by handgun discharge"	"X72"			1788	40656666	4.4
+	"Male"	"M"	"55-64 years"	"55-64"	"Intentional self-harm by rifle, shotgun and larger firearm discharge"	"X73"	"2017"	"2017"	533	20257803	2.6
+	"Male"	"M"	"55-64 years"	"55-64"	"Intentional self-harm by rifle, shotgun and larger firearm discharge"	"X73"	"2018"	"2018"	506	20398863	2.5
+"Total"	"Male"	"M"	"55-64 years"	"55-64"	"Intentional self-harm by rifle, shotgun and larger firearm discharge"	"X73"			1039	40656666	2.6
+	"Male"	"M"	"55-64 years"	"55-64"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"	"2017"	"2017"	2153	20257803	10.6
+	"Male"	"M"	"55-64 years"	"55-64"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"	"2018"	"2018"	2333	20398863	11.4
+"Total"	"Male"	"M"	"55-64 years"	"55-64"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"			4486	40656666	11.0
+	"Male"	"M"	"55-64 years"	"55-64"	"Intentional self-harm by explosive material"	"X75"	"2017"	"2017"	1	20257803	Unreliable
+	"Male"	"M"	"55-64 years"	"55-64"	"Intentional self-harm by explosive material"	"X75"	"2018"	"2018"	2	20398863	Unreliable
+"Total"	"Male"	"M"	"55-64 years"	"55-64"	"Intentional self-harm by explosive material"	"X75"			3	40656666	Unreliable
+	"Male"	"M"	"55-64 years"	"55-64"	"Intentional self-harm by smoke, fire and flames"	"X76"	"2017"	"2017"	26	20257803	0.1
+	"Male"	"M"	"55-64 years"	"55-64"	"Intentional self-harm by smoke, fire and flames"	"X76"	"2018"	"2018"	31	20398863	0.2
+"Total"	"Male"	"M"	"55-64 years"	"55-64"	"Intentional self-harm by smoke, fire and flames"	"X76"			57	40656666	0.1
+	"Male"	"M"	"55-64 years"	"55-64"	"Intentional self-harm by sharp object"	"X78"	"2017"	"2017"	164	20257803	0.8
+	"Male"	"M"	"55-64 years"	"55-64"	"Intentional self-harm by sharp object"	"X78"	"2018"	"2018"	193	20398863	0.9
+"Total"	"Male"	"M"	"55-64 years"	"55-64"	"Intentional self-harm by sharp object"	"X78"			357	40656666	0.9
+	"Male"	"M"	"55-64 years"	"55-64"	"Intentional self-harm by jumping from a high place"	"X80"	"2017"	"2017"	140	20257803	0.7
+	"Male"	"M"	"55-64 years"	"55-64"	"Intentional self-harm by jumping from a high place"	"X80"	"2018"	"2018"	106	20398863	0.5
+"Total"	"Male"	"M"	"55-64 years"	"55-64"	"Intentional self-harm by jumping from a high place"	"X80"			246	40656666	0.6
+	"Male"	"M"	"55-64 years"	"55-64"	"Intentional self-harm by jumping or lying before moving object"	"X81"	"2017"	"2017"	49	20257803	0.2
+	"Male"	"M"	"55-64 years"	"55-64"	"Intentional self-harm by jumping or lying before moving object"	"X81"	"2018"	"2018"	69	20398863	0.3
+"Total"	"Male"	"M"	"55-64 years"	"55-64"	"Intentional self-harm by jumping or lying before moving object"	"X81"			118	40656666	0.3
+	"Male"	"M"	"55-64 years"	"55-64"	"Intentional self-harm by crashing of motor vehicle"	"X82"	"2017"	"2017"	16	20257803	Unreliable
+	"Male"	"M"	"55-64 years"	"55-64"	"Intentional self-harm by crashing of motor vehicle"	"X82"	"2018"	"2018"	17	20398863	Unreliable
+"Total"	"Male"	"M"	"55-64 years"	"55-64"	"Intentional self-harm by crashing of motor vehicle"	"X82"			33	40656666	0.1
+	"Male"	"M"	"55-64 years"	"55-64"	"Intentional self-harm by other specified means"	"X83"	"2017"	"2017"	4	20257803	Unreliable
+	"Male"	"M"	"55-64 years"	"55-64"	"Intentional self-harm by other specified means"	"X83"	"2018"	"2018"	9	20398863	Unreliable
+"Total"	"Male"	"M"	"55-64 years"	"55-64"	"Intentional self-harm by other specified means"	"X83"			13	40656666	Unreliable
+	"Male"	"M"	"55-64 years"	"55-64"	"Intentional self-harm by unspecified means"	"X84"	"2017"	"2017"	13	20257803	Unreliable
+	"Male"	"M"	"55-64 years"	"55-64"	"Intentional self-harm by unspecified means"	"X84"	"2018"	"2018"	11	20398863	Unreliable
+"Total"	"Male"	"M"	"55-64 years"	"55-64"	"Intentional self-harm by unspecified means"	"X84"			24	40656666	0.1
+"Total"	"Male"	"M"	"55-64 years"	"55-64"					12498	40656666	30.7
+	"Male"	"M"	"65-74 years"	"65-74"	"Intentional self-poisoning by and exposure to nonopioid analgesics, antipyretics and antirheumatics"	"X60"	"2017"	"2017"	2	13877140	Unreliable
+	"Male"	"M"	"65-74 years"	"65-74"	"Intentional self-poisoning by and exposure to nonopioid analgesics, antipyretics and antirheumatics"	"X60"	"2018"	"2018"	7	14246085	Unreliable
+"Total"	"Male"	"M"	"65-74 years"	"65-74"	"Intentional self-poisoning by and exposure to nonopioid analgesics, antipyretics and antirheumatics"	"X60"			9	28123225	Unreliable
+	"Male"	"M"	"65-74 years"	"65-74"	"Intentional self-poisoning by and exposure to antiepileptic, sedative-hypnotic, antiparkinsonism and psychotropic drugs, not elsewhere classified"	"X61"	"2017"	"2017"	41	13877140	0.3
+	"Male"	"M"	"65-74 years"	"65-74"	"Intentional self-poisoning by and exposure to antiepileptic, sedative-hypnotic, antiparkinsonism and psychotropic drugs, not elsewhere classified"	"X61"	"2018"	"2018"	58	14246085	0.4
+"Total"	"Male"	"M"	"65-74 years"	"65-74"	"Intentional self-poisoning by and exposure to antiepileptic, sedative-hypnotic, antiparkinsonism and psychotropic drugs, not elsewhere classified"	"X61"			99	28123225	0.4
+	"Male"	"M"	"65-74 years"	"65-74"	"Intentional self-poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified"	"X62"	"2017"	"2017"	34	13877140	0.2
+	"Male"	"M"	"65-74 years"	"65-74"	"Intentional self-poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified"	"X62"	"2018"	"2018"	40	14246085	0.3
+"Total"	"Male"	"M"	"65-74 years"	"65-74"	"Intentional self-poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified"	"X62"			74	28123225	0.3
+	"Male"	"M"	"65-74 years"	"65-74"	"Intentional self-poisoning by and exposure to other drugs acting on the autonomic nervous system"	"X63"	"2017"	"2017"	3	13877140	Unreliable
+"Total"	"Male"	"M"	"65-74 years"	"65-74"	"Intentional self-poisoning by and exposure to other drugs acting on the autonomic nervous system"	"X63"			3	28123225	Unreliable
+	"Male"	"M"	"65-74 years"	"65-74"	"Intentional self-poisoning by and exposure to other and unspecified drugs, medicaments and biological substances"	"X64"	"2017"	"2017"	128	13877140	0.9
+	"Male"	"M"	"65-74 years"	"65-74"	"Intentional self-poisoning by and exposure to other and unspecified drugs, medicaments and biological substances"	"X64"	"2018"	"2018"	148	14246085	1.0
+"Total"	"Male"	"M"	"65-74 years"	"65-74"	"Intentional self-poisoning by and exposure to other and unspecified drugs, medicaments and biological substances"	"X64"			276	28123225	1.0
+	"Male"	"M"	"65-74 years"	"65-74"	"Intentional self-poisoning by and exposure to alcohol"	"X65"	"2017"	"2017"	4	13877140	Unreliable
+"Total"	"Male"	"M"	"65-74 years"	"65-74"	"Intentional self-poisoning by and exposure to alcohol"	"X65"			4	28123225	Unreliable
+	"Male"	"M"	"65-74 years"	"65-74"	"Intentional self-poisoning by and exposure to organic solvents and halogenated hydrocarbons and their vapours"	"X66"	"2017"	"2017"	6	13877140	Unreliable
+	"Male"	"M"	"65-74 years"	"65-74"	"Intentional self-poisoning by and exposure to organic solvents and halogenated hydrocarbons and their vapours"	"X66"	"2018"	"2018"	5	14246085	Unreliable
+"Total"	"Male"	"M"	"65-74 years"	"65-74"	"Intentional self-poisoning by and exposure to organic solvents and halogenated hydrocarbons and their vapours"	"X66"			11	28123225	Unreliable
+	"Male"	"M"	"65-74 years"	"65-74"	"Intentional self-poisoning by and exposure to other gases and vapours"	"X67"	"2017"	"2017"	91	13877140	0.7
+	"Male"	"M"	"65-74 years"	"65-74"	"Intentional self-poisoning by and exposure to other gases and vapours"	"X67"	"2018"	"2018"	76	14246085	0.5
+"Total"	"Male"	"M"	"65-74 years"	"65-74"	"Intentional self-poisoning by and exposure to other gases and vapours"	"X67"			167	28123225	0.6
+	"Male"	"M"	"65-74 years"	"65-74"	"Intentional self-poisoning by and exposure to pesticides"	"X68"	"2017"	"2017"	4	13877140	Unreliable
+	"Male"	"M"	"65-74 years"	"65-74"	"Intentional self-poisoning by and exposure to pesticides"	"X68"	"2018"	"2018"	5	14246085	Unreliable
+"Total"	"Male"	"M"	"65-74 years"	"65-74"	"Intentional self-poisoning by and exposure to pesticides"	"X68"			9	28123225	Unreliable
+	"Male"	"M"	"65-74 years"	"65-74"	"Intentional self-poisoning by and exposure to other and unspecified chemicals and noxious substances"	"X69"	"2017"	"2017"	6	13877140	Unreliable
+	"Male"	"M"	"65-74 years"	"65-74"	"Intentional self-poisoning by and exposure to other and unspecified chemicals and noxious substances"	"X69"	"2018"	"2018"	8	14246085	Unreliable
+"Total"	"Male"	"M"	"65-74 years"	"65-74"	"Intentional self-poisoning by and exposure to other and unspecified chemicals and noxious substances"	"X69"			14	28123225	Unreliable
+	"Male"	"M"	"65-74 years"	"65-74"	"Intentional self-harm by hanging, strangulation and suffocation"	"X70"	"2017"	"2017"	438	13877140	3.2
+	"Male"	"M"	"65-74 years"	"65-74"	"Intentional self-harm by hanging, strangulation and suffocation"	"X70"	"2018"	"2018"	507	14246085	3.6
+"Total"	"Male"	"M"	"65-74 years"	"65-74"	"Intentional self-harm by hanging, strangulation and suffocation"	"X70"			945	28123225	3.4
+	"Male"	"M"	"65-74 years"	"65-74"	"Intentional self-harm by drowning and submersion"	"X71"	"2017"	"2017"	23	13877140	0.2
+	"Male"	"M"	"65-74 years"	"65-74"	"Intentional self-harm by drowning and submersion"	"X71"	"2018"	"2018"	31	14246085	0.2
+"Total"	"Male"	"M"	"65-74 years"	"65-74"	"Intentional self-harm by drowning and submersion"	"X71"			54	28123225	0.2
+	"Male"	"M"	"65-74 years"	"65-74"	"Intentional self-harm by handgun discharge"	"X72"	"2017"	"2017"	736	13877140	5.3
+	"Male"	"M"	"65-74 years"	"65-74"	"Intentional self-harm by handgun discharge"	"X72"	"2018"	"2018"	770	14246085	5.4
+"Total"	"Male"	"M"	"65-74 years"	"65-74"	"Intentional self-harm by handgun discharge"	"X72"			1506	28123225	5.4
+	"Male"	"M"	"65-74 years"	"65-74"	"Intentional self-harm by rifle, shotgun and larger firearm discharge"	"X73"	"2017"	"2017"	266	13877140	1.9
+	"Male"	"M"	"65-74 years"	"65-74"	"Intentional self-harm by rifle, shotgun and larger firearm discharge"	"X73"	"2018"	"2018"	314	14246085	2.2
+"Total"	"Male"	"M"	"65-74 years"	"65-74"	"Intentional self-harm by rifle, shotgun and larger firearm discharge"	"X73"			580	28123225	2.1
+	"Male"	"M"	"65-74 years"	"65-74"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"	"2017"	"2017"	1658	13877140	11.9
+	"Male"	"M"	"65-74 years"	"65-74"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"	"2018"	"2018"	1779	14246085	12.5
+"Total"	"Male"	"M"	"65-74 years"	"65-74"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"			3437	28123225	12.2
+	"Male"	"M"	"65-74 years"	"65-74"	"Intentional self-harm by explosive material"	"X75"	"2018"	"2018"	1	14246085	Unreliable
+"Total"	"Male"	"M"	"65-74 years"	"65-74"	"Intentional self-harm by explosive material"	"X75"			1	28123225	Unreliable
+	"Male"	"M"	"65-74 years"	"65-74"	"Intentional self-harm by smoke, fire and flames"	"X76"	"2017"	"2017"	14	13877140	Unreliable
+	"Male"	"M"	"65-74 years"	"65-74"	"Intentional self-harm by smoke, fire and flames"	"X76"	"2018"	"2018"	21	14246085	0.1
+"Total"	"Male"	"M"	"65-74 years"	"65-74"	"Intentional self-harm by smoke, fire and flames"	"X76"			35	28123225	0.1
+	"Male"	"M"	"65-74 years"	"65-74"	"Intentional self-harm by sharp object"	"X78"	"2017"	"2017"	82	13877140	0.6
+	"Male"	"M"	"65-74 years"	"65-74"	"Intentional self-harm by sharp object"	"X78"	"2018"	"2018"	83	14246085	0.6
+"Total"	"Male"	"M"	"65-74 years"	"65-74"	"Intentional self-harm by sharp object"	"X78"			165	28123225	0.6
+	"Male"	"M"	"65-74 years"	"65-74"	"Intentional self-harm by jumping from a high place"	"X80"	"2017"	"2017"	62	13877140	0.4
+	"Male"	"M"	"65-74 years"	"65-74"	"Intentional self-harm by jumping from a high place"	"X80"	"2018"	"2018"	64	14246085	0.4
+"Total"	"Male"	"M"	"65-74 years"	"65-74"	"Intentional self-harm by jumping from a high place"	"X80"			126	28123225	0.4
+	"Male"	"M"	"65-74 years"	"65-74"	"Intentional self-harm by jumping or lying before moving object"	"X81"	"2017"	"2017"	15	13877140	Unreliable
+	"Male"	"M"	"65-74 years"	"65-74"	"Intentional self-harm by jumping or lying before moving object"	"X81"	"2018"	"2018"	26	14246085	0.2
+"Total"	"Male"	"M"	"65-74 years"	"65-74"	"Intentional self-harm by jumping or lying before moving object"	"X81"			41	28123225	0.1
+	"Male"	"M"	"65-74 years"	"65-74"	"Intentional self-harm by crashing of motor vehicle"	"X82"	"2017"	"2017"	8	13877140	Unreliable
+	"Male"	"M"	"65-74 years"	"65-74"	"Intentional self-harm by crashing of motor vehicle"	"X82"	"2018"	"2018"	8	14246085	Unreliable
+"Total"	"Male"	"M"	"65-74 years"	"65-74"	"Intentional self-harm by crashing of motor vehicle"	"X82"			16	28123225	Unreliable
+	"Male"	"M"	"65-74 years"	"65-74"	"Intentional self-harm by other specified means"	"X83"	"2017"	"2017"	4	13877140	Unreliable
+	"Male"	"M"	"65-74 years"	"65-74"	"Intentional self-harm by other specified means"	"X83"	"2018"	"2018"	4	14246085	Unreliable
+"Total"	"Male"	"M"	"65-74 years"	"65-74"	"Intentional self-harm by other specified means"	"X83"			8	28123225	Unreliable
+	"Male"	"M"	"65-74 years"	"65-74"	"Intentional self-harm by unspecified means"	"X84"	"2017"	"2017"	8	13877140	Unreliable
+	"Male"	"M"	"65-74 years"	"65-74"	"Intentional self-harm by unspecified means"	"X84"	"2018"	"2018"	5	14246085	Unreliable
+"Total"	"Male"	"M"	"65-74 years"	"65-74"	"Intentional self-harm by unspecified means"	"X84"			13	28123225	Unreliable
+"Total"	"Male"	"M"	"65-74 years"	"65-74"					7593	28123225	27.0
+	"Male"	"M"	"75-84 years"	"75-84"	"Intentional self-poisoning by and exposure to nonopioid analgesics, antipyretics and antirheumatics"	"X60"	"2017"	"2017"	2	6407875	Unreliable
+	"Male"	"M"	"75-84 years"	"75-84"	"Intentional self-poisoning by and exposure to nonopioid analgesics, antipyretics and antirheumatics"	"X60"	"2018"	"2018"	3	6735040	Unreliable
+"Total"	"Male"	"M"	"75-84 years"	"75-84"	"Intentional self-poisoning by and exposure to nonopioid analgesics, antipyretics and antirheumatics"	"X60"			5	13142915	Unreliable
+	"Male"	"M"	"75-84 years"	"75-84"	"Intentional self-poisoning by and exposure to antiepileptic, sedative-hypnotic, antiparkinsonism and psychotropic drugs, not elsewhere classified"	"X61"	"2017"	"2017"	16	6407875	Unreliable
+	"Male"	"M"	"75-84 years"	"75-84"	"Intentional self-poisoning by and exposure to antiepileptic, sedative-hypnotic, antiparkinsonism and psychotropic drugs, not elsewhere classified"	"X61"	"2018"	"2018"	17	6735040	Unreliable
+"Total"	"Male"	"M"	"75-84 years"	"75-84"	"Intentional self-poisoning by and exposure to antiepileptic, sedative-hypnotic, antiparkinsonism and psychotropic drugs, not elsewhere classified"	"X61"			33	13142915	0.3
+	"Male"	"M"	"75-84 years"	"75-84"	"Intentional self-poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified"	"X62"	"2017"	"2017"	17	6407875	Unreliable
+	"Male"	"M"	"75-84 years"	"75-84"	"Intentional self-poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified"	"X62"	"2018"	"2018"	12	6735040	Unreliable
+"Total"	"Male"	"M"	"75-84 years"	"75-84"	"Intentional self-poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified"	"X62"			29	13142915	0.2
+	"Male"	"M"	"75-84 years"	"75-84"	"Intentional self-poisoning by and exposure to other drugs acting on the autonomic nervous system"	"X63"	"2018"	"2018"	2	6735040	Unreliable
+"Total"	"Male"	"M"	"75-84 years"	"75-84"	"Intentional self-poisoning by and exposure to other drugs acting on the autonomic nervous system"	"X63"			2	13142915	Unreliable
+	"Male"	"M"	"75-84 years"	"75-84"	"Intentional self-poisoning by and exposure to other and unspecified drugs, medicaments and biological substances"	"X64"	"2017"	"2017"	42	6407875	0.7
+	"Male"	"M"	"75-84 years"	"75-84"	"Intentional self-poisoning by and exposure to other and unspecified drugs, medicaments and biological substances"	"X64"	"2018"	"2018"	48	6735040	0.7
+"Total"	"Male"	"M"	"75-84 years"	"75-84"	"Intentional self-poisoning by and exposure to other and unspecified drugs, medicaments and biological substances"	"X64"			90	13142915	0.7
+	"Male"	"M"	"75-84 years"	"75-84"	"Intentional self-poisoning by and exposure to organic solvents and halogenated hydrocarbons and their vapours"	"X66"	"2017"	"2017"	1	6407875	Unreliable
+	"Male"	"M"	"75-84 years"	"75-84"	"Intentional self-poisoning by and exposure to organic solvents and halogenated hydrocarbons and their vapours"	"X66"	"2018"	"2018"	1	6735040	Unreliable
+"Total"	"Male"	"M"	"75-84 years"	"75-84"	"Intentional self-poisoning by and exposure to organic solvents and halogenated hydrocarbons and their vapours"	"X66"			2	13142915	Unreliable
+	"Male"	"M"	"75-84 years"	"75-84"	"Intentional self-poisoning by and exposure to other gases and vapours"	"X67"	"2017"	"2017"	50	6407875	0.8
+	"Male"	"M"	"75-84 years"	"75-84"	"Intentional self-poisoning by and exposure to other gases and vapours"	"X67"	"2018"	"2018"	35	6735040	0.5
+"Total"	"Male"	"M"	"75-84 years"	"75-84"	"Intentional self-poisoning by and exposure to other gases and vapours"	"X67"			85	13142915	0.6
+	"Male"	"M"	"75-84 years"	"75-84"	"Intentional self-poisoning by and exposure to pesticides"	"X68"	"2018"	"2018"	2	6735040	Unreliable
+"Total"	"Male"	"M"	"75-84 years"	"75-84"	"Intentional self-poisoning by and exposure to pesticides"	"X68"			2	13142915	Unreliable
+	"Male"	"M"	"75-84 years"	"75-84"	"Intentional self-poisoning by and exposure to other and unspecified chemicals and noxious substances"	"X69"	"2018"	"2018"	5	6735040	Unreliable
+"Total"	"Male"	"M"	"75-84 years"	"75-84"	"Intentional self-poisoning by and exposure to other and unspecified chemicals and noxious substances"	"X69"			5	13142915	Unreliable
+	"Male"	"M"	"75-84 years"	"75-84"	"Intentional self-harm by hanging, strangulation and suffocation"	"X70"	"2017"	"2017"	175	6407875	2.7
+	"Male"	"M"	"75-84 years"	"75-84"	"Intentional self-harm by hanging, strangulation and suffocation"	"X70"	"2018"	"2018"	193	6735040	2.9
+"Total"	"Male"	"M"	"75-84 years"	"75-84"	"Intentional self-harm by hanging, strangulation and suffocation"	"X70"			368	13142915	2.8
+	"Male"	"M"	"75-84 years"	"75-84"	"Intentional self-harm by drowning and submersion"	"X71"	"2017"	"2017"	18	6407875	Unreliable
+	"Male"	"M"	"75-84 years"	"75-84"	"Intentional self-harm by drowning and submersion"	"X71"	"2018"	"2018"	20	6735040	0.3
+"Total"	"Male"	"M"	"75-84 years"	"75-84"	"Intentional self-harm by drowning and submersion"	"X71"			38	13142915	0.3
+	"Male"	"M"	"75-84 years"	"75-84"	"Intentional self-harm by handgun discharge"	"X72"	"2017"	"2017"	511	6407875	8.0
+	"Male"	"M"	"75-84 years"	"75-84"	"Intentional self-harm by handgun discharge"	"X72"	"2018"	"2018"	593	6735040	8.8
+"Total"	"Male"	"M"	"75-84 years"	"75-84"	"Intentional self-harm by handgun discharge"	"X72"			1104	13142915	8.4
+	"Male"	"M"	"75-84 years"	"75-84"	"Intentional self-harm by rifle, shotgun and larger firearm discharge"	"X73"	"2017"	"2017"	186	6407875	2.9
+	"Male"	"M"	"75-84 years"	"75-84"	"Intentional self-harm by rifle, shotgun and larger firearm discharge"	"X73"	"2018"	"2018"	203	6735040	3.0
+"Total"	"Male"	"M"	"75-84 years"	"75-84"	"Intentional self-harm by rifle, shotgun and larger firearm discharge"	"X73"			389	13142915	3.0
+	"Male"	"M"	"75-84 years"	"75-84"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"	"2017"	"2017"	1204	6407875	18.8
+	"Male"	"M"	"75-84 years"	"75-84"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"	"2018"	"2018"	1278	6735040	19.0
+"Total"	"Male"	"M"	"75-84 years"	"75-84"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"			2482	13142915	18.9
+	"Male"	"M"	"75-84 years"	"75-84"	"Intentional self-harm by smoke, fire and flames"	"X76"	"2017"	"2017"	4	6407875	Unreliable
+	"Male"	"M"	"75-84 years"	"75-84"	"Intentional self-harm by smoke, fire and flames"	"X76"	"2018"	"2018"	5	6735040	Unreliable
+"Total"	"Male"	"M"	"75-84 years"	"75-84"	"Intentional self-harm by smoke, fire and flames"	"X76"			9	13142915	Unreliable
+	"Male"	"M"	"75-84 years"	"75-84"	"Intentional self-harm by sharp object"	"X78"	"2017"	"2017"	28	6407875	0.4
+	"Male"	"M"	"75-84 years"	"75-84"	"Intentional self-harm by sharp object"	"X78"	"2018"	"2018"	42	6735040	0.6
+"Total"	"Male"	"M"	"75-84 years"	"75-84"	"Intentional self-harm by sharp object"	"X78"			70	13142915	0.5
+	"Male"	"M"	"75-84 years"	"75-84"	"Intentional self-harm by jumping from a high place"	"X80"	"2017"	"2017"	23	6407875	0.4
+	"Male"	"M"	"75-84 years"	"75-84"	"Intentional self-harm by jumping from a high place"	"X80"	"2018"	"2018"	40	6735040	0.6
+"Total"	"Male"	"M"	"75-84 years"	"75-84"	"Intentional self-harm by jumping from a high place"	"X80"			63	13142915	0.5
+	"Male"	"M"	"75-84 years"	"75-84"	"Intentional self-harm by jumping or lying before moving object"	"X81"	"2017"	"2017"	7	6407875	Unreliable
+	"Male"	"M"	"75-84 years"	"75-84"	"Intentional self-harm by jumping or lying before moving object"	"X81"	"2018"	"2018"	8	6735040	Unreliable
+"Total"	"Male"	"M"	"75-84 years"	"75-84"	"Intentional self-harm by jumping or lying before moving object"	"X81"			15	13142915	Unreliable
+	"Male"	"M"	"75-84 years"	"75-84"	"Intentional self-harm by crashing of motor vehicle"	"X82"	"2017"	"2017"	2	6407875	Unreliable
+	"Male"	"M"	"75-84 years"	"75-84"	"Intentional self-harm by crashing of motor vehicle"	"X82"	"2018"	"2018"	2	6735040	Unreliable
+"Total"	"Male"	"M"	"75-84 years"	"75-84"	"Intentional self-harm by crashing of motor vehicle"	"X82"			4	13142915	Unreliable
+	"Male"	"M"	"75-84 years"	"75-84"	"Intentional self-harm by other specified means"	"X83"	"2017"	"2017"	2	6407875	Unreliable
+	"Male"	"M"	"75-84 years"	"75-84"	"Intentional self-harm by other specified means"	"X83"	"2018"	"2018"	3	6735040	Unreliable
+"Total"	"Male"	"M"	"75-84 years"	"75-84"	"Intentional self-harm by other specified means"	"X83"			5	13142915	Unreliable
+	"Male"	"M"	"75-84 years"	"75-84"	"Intentional self-harm by unspecified means"	"X84"	"2017"	"2017"	4	6407875	Unreliable
+	"Male"	"M"	"75-84 years"	"75-84"	"Intentional self-harm by unspecified means"	"X84"	"2018"	"2018"	2	6735040	Unreliable
+"Total"	"Male"	"M"	"75-84 years"	"75-84"	"Intentional self-harm by unspecified means"	"X84"			6	13142915	Unreliable
+"Total"	"Male"	"M"	"75-84 years"	"75-84"					4806	13142915	36.6
+	"Male"	"M"	"85+ years"	"85+"	"Intentional self-poisoning by and exposure to nonopioid analgesics, antipyretics and antirheumatics"	"X60"	"2017"	"2017"	4	2279669	Unreliable
+	"Male"	"M"	"85+ years"	"85+"	"Intentional self-poisoning by and exposure to nonopioid analgesics, antipyretics and antirheumatics"	"X60"	"2018"	"2018"	2	2325693	Unreliable
+"Total"	"Male"	"M"	"85+ years"	"85+"	"Intentional self-poisoning by and exposure to nonopioid analgesics, antipyretics and antirheumatics"	"X60"			6	4605362	Unreliable
+	"Male"	"M"	"85+ years"	"85+"	"Intentional self-poisoning by and exposure to antiepileptic, sedative-hypnotic, antiparkinsonism and psychotropic drugs, not elsewhere classified"	"X61"	"2017"	"2017"	5	2279669	Unreliable
+	"Male"	"M"	"85+ years"	"85+"	"Intentional self-poisoning by and exposure to antiepileptic, sedative-hypnotic, antiparkinsonism and psychotropic drugs, not elsewhere classified"	"X61"	"2018"	"2018"	4	2325693	Unreliable
+"Total"	"Male"	"M"	"85+ years"	"85+"	"Intentional self-poisoning by and exposure to antiepileptic, sedative-hypnotic, antiparkinsonism and psychotropic drugs, not elsewhere classified"	"X61"			9	4605362	Unreliable
+	"Male"	"M"	"85+ years"	"85+"	"Intentional self-poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified"	"X62"	"2017"	"2017"	10	2279669	Unreliable
+	"Male"	"M"	"85+ years"	"85+"	"Intentional self-poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified"	"X62"	"2018"	"2018"	9	2325693	Unreliable
+"Total"	"Male"	"M"	"85+ years"	"85+"	"Intentional self-poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified"	"X62"			19	4605362	Unreliable
+	"Male"	"M"	"85+ years"	"85+"	"Intentional self-poisoning by and exposure to other drugs acting on the autonomic nervous system"	"X63"	"2017"	"2017"	1	2279669	Unreliable
+"Total"	"Male"	"M"	"85+ years"	"85+"	"Intentional self-poisoning by and exposure to other drugs acting on the autonomic nervous system"	"X63"			1	4605362	Unreliable
+	"Male"	"M"	"85+ years"	"85+"	"Intentional self-poisoning by and exposure to other and unspecified drugs, medicaments and biological substances"	"X64"	"2017"	"2017"	18	2279669	Unreliable
+	"Male"	"M"	"85+ years"	"85+"	"Intentional self-poisoning by and exposure to other and unspecified drugs, medicaments and biological substances"	"X64"	"2018"	"2018"	17	2325693	Unreliable
+"Total"	"Male"	"M"	"85+ years"	"85+"	"Intentional self-poisoning by and exposure to other and unspecified drugs, medicaments and biological substances"	"X64"			35	4605362	0.8
+	"Male"	"M"	"85+ years"	"85+"	"Intentional self-poisoning by and exposure to alcohol"	"X65"	"2018"	"2018"	1	2325693	Unreliable
+"Total"	"Male"	"M"	"85+ years"	"85+"	"Intentional self-poisoning by and exposure to alcohol"	"X65"			1	4605362	Unreliable
+	"Male"	"M"	"85+ years"	"85+"	"Intentional self-poisoning by and exposure to organic solvents and halogenated hydrocarbons and their vapours"	"X66"	"2017"	"2017"	2	2279669	Unreliable
+"Total"	"Male"	"M"	"85+ years"	"85+"	"Intentional self-poisoning by and exposure to organic solvents and halogenated hydrocarbons and their vapours"	"X66"			2	4605362	Unreliable
+	"Male"	"M"	"85+ years"	"85+"	"Intentional self-poisoning by and exposure to other gases and vapours"	"X67"	"2017"	"2017"	31	2279669	1.4
+	"Male"	"M"	"85+ years"	"85+"	"Intentional self-poisoning by and exposure to other gases and vapours"	"X67"	"2018"	"2018"	30	2325693	1.3
+"Total"	"Male"	"M"	"85+ years"	"85+"	"Intentional self-poisoning by and exposure to other gases and vapours"	"X67"			61	4605362	1.3
+	"Male"	"M"	"85+ years"	"85+"	"Intentional self-poisoning by and exposure to other and unspecified chemicals and noxious substances"	"X69"	"2017"	"2017"	2	2279669	Unreliable
+	"Male"	"M"	"85+ years"	"85+"	"Intentional self-poisoning by and exposure to other and unspecified chemicals and noxious substances"	"X69"	"2018"	"2018"	3	2325693	Unreliable
+"Total"	"Male"	"M"	"85+ years"	"85+"	"Intentional self-poisoning by and exposure to other and unspecified chemicals and noxious substances"	"X69"			5	4605362	Unreliable
+	"Male"	"M"	"85+ years"	"85+"	"Intentional self-harm by hanging, strangulation and suffocation"	"X70"	"2017"	"2017"	94	2279669	4.1
+	"Male"	"M"	"85+ years"	"85+"	"Intentional self-harm by hanging, strangulation and suffocation"	"X70"	"2018"	"2018"	92	2325693	4.0
+"Total"	"Male"	"M"	"85+ years"	"85+"	"Intentional self-harm by hanging, strangulation and suffocation"	"X70"			186	4605362	4.0
+	"Male"	"M"	"85+ years"	"85+"	"Intentional self-harm by drowning and submersion"	"X71"	"2017"	"2017"	11	2279669	Unreliable
+	"Male"	"M"	"85+ years"	"85+"	"Intentional self-harm by drowning and submersion"	"X71"	"2018"	"2018"	9	2325693	Unreliable
+"Total"	"Male"	"M"	"85+ years"	"85+"	"Intentional self-harm by drowning and submersion"	"X71"			20	4605362	0.4
+	"Male"	"M"	"85+ years"	"85+"	"Intentional self-harm by handgun discharge"	"X72"	"2017"	"2017"	268	2279669	11.8
+	"Male"	"M"	"85+ years"	"85+"	"Intentional self-harm by handgun discharge"	"X72"	"2018"	"2018"	240	2325693	10.3
+"Total"	"Male"	"M"	"85+ years"	"85+"	"Intentional self-harm by handgun discharge"	"X72"			508	4605362	11.0
+	"Male"	"M"	"85+ years"	"85+"	"Intentional self-harm by rifle, shotgun and larger firearm discharge"	"X73"	"2017"	"2017"	95	2279669	4.2
+	"Male"	"M"	"85+ years"	"85+"	"Intentional self-harm by rifle, shotgun and larger firearm discharge"	"X73"	"2018"	"2018"	75	2325693	3.2
+"Total"	"Male"	"M"	"85+ years"	"85+"	"Intentional self-harm by rifle, shotgun and larger firearm discharge"	"X73"			170	4605362	3.7
+	"Male"	"M"	"85+ years"	"85+"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"	"2017"	"2017"	567	2279669	24.9
+	"Male"	"M"	"85+ years"	"85+"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"	"2018"	"2018"	565	2325693	24.3
+"Total"	"Male"	"M"	"85+ years"	"85+"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"			1132	4605362	24.6
+	"Male"	"M"	"85+ years"	"85+"	"Intentional self-harm by smoke, fire and flames"	"X76"	"2017"	"2017"	4	2279669	Unreliable
+"Total"	"Male"	"M"	"85+ years"	"85+"	"Intentional self-harm by smoke, fire and flames"	"X76"			4	4605362	Unreliable
+	"Male"	"M"	"85+ years"	"85+"	"Intentional self-harm by sharp object"	"X78"	"2017"	"2017"	16	2279669	Unreliable
+	"Male"	"M"	"85+ years"	"85+"	"Intentional self-harm by sharp object"	"X78"	"2018"	"2018"	20	2325693	0.9
+"Total"	"Male"	"M"	"85+ years"	"85+"	"Intentional self-harm by sharp object"	"X78"			36	4605362	0.8
+	"Male"	"M"	"85+ years"	"85+"	"Intentional self-harm by jumping from a high place"	"X80"	"2017"	"2017"	18	2279669	Unreliable
+	"Male"	"M"	"85+ years"	"85+"	"Intentional self-harm by jumping from a high place"	"X80"	"2018"	"2018"	23	2325693	1.0
+"Total"	"Male"	"M"	"85+ years"	"85+"	"Intentional self-harm by jumping from a high place"	"X80"			41	4605362	0.9
+	"Male"	"M"	"85+ years"	"85+"	"Intentional self-harm by jumping or lying before moving object"	"X81"	"2017"	"2017"	2	2279669	Unreliable
+	"Male"	"M"	"85+ years"	"85+"	"Intentional self-harm by jumping or lying before moving object"	"X81"	"2018"	"2018"	1	2325693	Unreliable
+"Total"	"Male"	"M"	"85+ years"	"85+"	"Intentional self-harm by jumping or lying before moving object"	"X81"			3	4605362	Unreliable
+	"Male"	"M"	"85+ years"	"85+"	"Intentional self-harm by crashing of motor vehicle"	"X82"	"2017"	"2017"	1	2279669	Unreliable
+	"Male"	"M"	"85+ years"	"85+"	"Intentional self-harm by crashing of motor vehicle"	"X82"	"2018"	"2018"	2	2325693	Unreliable
+"Total"	"Male"	"M"	"85+ years"	"85+"	"Intentional self-harm by crashing of motor vehicle"	"X82"			3	4605362	Unreliable
+	"Male"	"M"	"85+ years"	"85+"	"Intentional self-harm by other specified means"	"X83"	"2017"	"2017"	2	2279669	Unreliable
+	"Male"	"M"	"85+ years"	"85+"	"Intentional self-harm by other specified means"	"X83"	"2018"	"2018"	2	2325693	Unreliable
+"Total"	"Male"	"M"	"85+ years"	"85+"	"Intentional self-harm by other specified means"	"X83"			4	4605362	Unreliable
+	"Male"	"M"	"85+ years"	"85+"	"Intentional self-harm by unspecified means"	"X84"	"2017"	"2017"	3	2279669	Unreliable
+	"Male"	"M"	"85+ years"	"85+"	"Intentional self-harm by unspecified means"	"X84"	"2018"	"2018"	2	2325693	Unreliable
+"Total"	"Male"	"M"	"85+ years"	"85+"	"Intentional self-harm by unspecified means"	"X84"			5	4605362	Unreliable
+"Total"	"Male"	"M"	"85+ years"	"85+"					2251	4605362	48.9
+	"Male"	"M"	"Not Stated"	"NS"	"Intentional self-harm by hanging, strangulation and suffocation"	"X70"	"2017"	"2017"	1	Not Applicable	Not Applicable
+"Total"	"Male"	"M"	"Not Stated"	"NS"	"Intentional self-harm by hanging, strangulation and suffocation"	"X70"			1	Not Applicable	Not Applicable
+	"Male"	"M"	"Not Stated"	"NS"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"	"2017"	"2017"	1	Not Applicable	Not Applicable
+"Total"	"Male"	"M"	"Not Stated"	"NS"	"Intentional self-harm by other and unspecified firearm discharge"	"X74"			1	Not Applicable	Not Applicable
+	"Male"	"M"	"Not Stated"	"NS"	"Intentional self-harm by jumping or lying before moving object"	"X81"	"2017"	"2017"	1	Not Applicable	Not Applicable
+"Total"	"Male"	"M"	"Not Stated"	"NS"	"Intentional self-harm by jumping or lying before moving object"	"X81"			1	Not Applicable	Not Applicable
+"Total"	"Male"	"M"	"Not Stated"	"NS"					3	Not Applicable	Not Applicable
+"Total"	"Male"	"M"							74464	321536798	23.2
+"Total"									95419	652886612	14.6
+"---"
+"Dataset: Underlying Cause of Death, 1999-2018"
+"Query Parameters:"
+"ICD-10 Codes: X60-X84 (Intentional self-harm)"
+"Year/Month: 2017; 2018"
+"Group By: Gender; Ten-Year Age Groups; Cause of death; Year"
+"Show Totals: True"
+"Show Zero Values: False"
+"Show Suppressed: False"
+"Calculate Rates Per: 100,000"
+"Rate Options: Default intercensal populations for years 2001-2009 (except Infant Age Groups)"
+"---"
+"Help: See http://wonder.cdc.gov/wonder/help/ucd.html for more information."
+"---"
+"Query Date: Mar 29, 2020 7:05:36 PM"
+"---"
+"Suggested Citation: Centers for Disease Control and Prevention, National Center for Health Statistics. Underlying Cause of Death"
+"1999-2018 on CDC WONDER Online Database, released in 2020. Data are from the Multiple Cause of Death Files, 1999-2018, as"
+"compiled from data provided by the 57 vital statistics jurisdictions through the Vital Statistics Cooperative Program. Accessed"
+"at http://wonder.cdc.gov/ucd-icd10.html on Mar 29, 2020 7:05:36 PM"
+"---"
+Messages:
+"1. Rows with zero Deaths are hidden, but the Population values in those rows are included in the totals. Use Quick Options above"
+"to show zero rows."
+"---"
+Caveats:
+"1. Death rates are flagged as Unreliable when the rate is calculated with a numerator of 20 or less. More information:"
+"http://wonder.cdc.gov/wonder/help/ucd.html#Unreliable."
+"2. Deaths of persons with Age ""Not Stated"" are included in ""All"" counts and rates, but are not distributed among age groups,"
+"so are not included in age-specific counts, age-specific rates or in any age-adjusted rates. More information:"
+"http://wonder.cdc.gov/wonder/help/ucd.html#Not Stated."
+"3. The population figures for year 2018 are bridged-race estimates of the July 1 resident population, from the Vintage 2018"
+"postcensal series released by NCHS on June 25, 2019. The population figures for year 2017 are bridged-race estimates of the July"
+"1 resident population, from the Vintage 2017 postcensal series released by NCHS on June 27, 2018. The population figures for"
+"year 2016 are bridged-race estimates of the July 1 resident population, from the Vintage 2016 postcensal series released by NCHS"
+"on June 26, 2017. The population figures for year 2015 are bridged-race estimates of the July 1 resident population, from the"
+"Vintage 2015 postcensal series released by NCHS on June 28, 2016. The population figures for year 2014 are bridged-race"
+"estimates of the July 1 resident population, from the Vintage 2014 postcensal series released by NCHS on June 30, 2015. The"
+"population figures for year 2013 are bridged-race estimates of the July 1 resident population, from the Vintage 2013 postcensal"
+"series released by NCHS on June 26, 2014. The population figures for year 2012 are bridged-race estimates of the July 1 resident"
+"population, from the Vintage 2012 postcensal series released by NCHS on June 13, 2013. The population figures for year 2011 are"
+"bridged-race estimates of the July 1 resident population, from the Vintage 2011 postcensal series released by NCHS on July 18,"
+"2012. Population figures for 2010 are April 1 Census counts. The population figures for years 2001 - 2009 are bridged-race"
+"estimates of the July 1 resident population, from the revised intercensal county-level 2000 - 2009 series released by NCHS on"
+"October 26, 2012. Population figures for 2000 are April 1 Census counts. Population figures for 1999 are from the 1990-1999"
+"intercensal series of July 1 estimates. Population figures for the infant age groups are the number of live births."
+"<br/><b>Note:</b> Rates and population figures for years 2001 - 2009 differ slightly from previously published reports, due to"
+"use of the population estimates which were available at the time of release."
+"4. The population figures used in the calculation of death rates for the age group 'under 1 year' are the estimates of the"
+"resident population that is under one year of age. More information: http://wonder.cdc.gov/wonder/help/ucd.html#Age Group."
+"5. Beginning with the 2018 data, changes have been implemented that affect the counts for ICD-10 cause of death codes O00-O99"
+"compared to previous practice. In addition, data for the cause of death codes O00-O99 for 2003 through 2017 reflect differences"
+"in information available to individual states and probable errors. Caution should be used in interpreting these data. More"
+"information can be found at: https://www.cdc.gov/nchs/maternal-mortality/."
+"6. Changes to cause of death classification affect reporting trends. More information:"
+"http://wonder.cdc.gov/wonder/help/ucd.html#ICD-10 Changes."
